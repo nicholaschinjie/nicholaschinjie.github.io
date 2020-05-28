@@ -7,11 +7,12 @@ headerImage: false
 tag:
 - markdown
 - components
-- extra
-category: blog
+- internship
+category: experience
 author: jamesfoster
 description: Markdown summary with different options
 ---
+
 
 ## Summary:
 

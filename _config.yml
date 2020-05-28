@@ -1,9 +1,9 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: nicholas chin
+bio: piano player, pokémon trainer, software developer
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: 
 
 # if it's an external image, update below for true
 # better with square images
@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://theblackathena.github.io/indigo
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -29,42 +29,38 @@ permalink: /:title/
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, leave categories empty
-disqus:
-  shortname: mydisqus # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+# disqus:
+#   shortname: mydisqus # enter this from your disqus account
+#   categories: # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-# instagram: myinstagram
+# facebook: myfacebook
+# twitter: mytwitter
 # pinterest: mypinterest
-# linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+email: nicholaschin20@gmail.com
+linkedin: nicholaschinjie
+github: theblackathena
+instagram: nicholas2chinz
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+
 
 authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+  nicholaschin:
+    name: 
+    bio: Aspiring Pokémon Trainer. Feel free to reach out to me at nicholaschin20@gmail.com
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    # twitter: johndoe
+
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -87,7 +83,7 @@ about: true
 blog: true
 
 # do you want to show the "read time" of the posts?
-read-time: true
+# read-time: true
 
 # do you want to show the "tags" inside the posts?
 show-tags: true

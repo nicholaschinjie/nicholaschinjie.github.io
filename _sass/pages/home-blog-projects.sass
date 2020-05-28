@@ -1,6 +1,7 @@
 .home,
 .blog,
-.projects
+.projects,
+.experience
     margin-top: 125px
 
     > .list
@@ -23,9 +24,7 @@
             box-shadow: #FFF 0 0 0 5px
             border-radius: 3px
 
-.home > .list,
-.blog > .list,
-.projects > .list
+.blog > .list
     > .item
         display: block
         width: 95%
@@ -34,7 +33,7 @@
     > .item > .url
         width: 100%
         display: block
-        padding: 20px 0
+        padding: 30px 0
         text-decoration: none
 
     > .item > .url > .title
@@ -46,8 +45,6 @@
     > .item:hover > .url > .title
         color: $delta
 
-    // maybe we can't nest html5 elements
-    // can you help me?
     aside
         position: relative
         top: 2px
@@ -62,7 +59,154 @@
     .item:hover .url aside
         color: $alpha
 
+.home > .list,
+.projects > .list, 
+.experience > .list, 
+    > .item
+        display: block
+        width: 95%
+        margin: 0 auto
+
+    > .item > .url
+        width: 100%
+        display: block
+        padding: 20px 0
+        text-decoration: none
+
+    > .item > .url
+        > .title
+            margin: 0
+            width: 75%
+            font-weight: 500
+            transition: all ease-in-out .2s
+        > .image
+            filter: saturate(50%)
+            transition: 0.3s
+
+    > .item:hover > .url
+        > .title
+            color: $porygon-blue
+        > .image
+            filter: saturate(105%)
+
+    aside
+        position: relative
+        top: 2px
+        margin: 0
+        width: 25%
+        float: right
+        font-weight: 300
+        color: $gama
+        text-align: right
+        transition: all ease-in-out .2s
+
+    .item:hover .url aside
+        color: $alpha
+
+.blog > .list > .item
+    > .post-tags
+        color: $gama
+        font-weight: 300
+        font-size: 1.4rem
+        text-transform: uppercase
+        text-align: left
+        float: left
+        display: block
+        margin-bottom: 0rem
+        margin-top: -2.4rem
+        letter-spacing: 1px
+        -webkit-font-smoothing: antialiased
+        text-rendering: optimizeLegibility
+    > .post-tags > .item
+        padding: 2px 8px
+        border-radius: 3px
+        font-size: 1rem
+        background: $epsilon
+        color: $alpha
+        letter-spacing: 0.5px
+        margin: 3px 1px
+        text-decoration: none
+        display: inline
+
+.projects > .list > .item,
+    > .post-tags
+        color: $gama
+        font-weight: 300
+        font-size: 1.4rem
+        text-transform: uppercase
+        text-align: left
+        float: left
+        display: block
+        margin-bottom: 0rem
+        margin-top: -0.8rem
+        letter-spacing: 1px
+        -webkit-font-smoothing: antialiased
+        text-rendering: optimizeLegibility
+    > .post-tags > .item 
+        padding: 2px 8px
+        border-radius: 3px
+        font-size: 1rem
+        background: $epsilon
+        color: $alpha
+        letter-spacing: 0.5px
+        margin: 3px 1px
+        text-decoration: none
+        display: inline
+
+.experience > .list > .item,
+    > .post-tags
+        color: $gama
+        font-weight: 300
+        font-size: 1.4rem
+        text-transform: uppercase
+        text-align: left
+        float: left
+        display: block
+        margin-bottom: 0rem
+        margin-top: -0.8rem
+        letter-spacing: 1px
+        -webkit-font-smoothing: antialiased
+        text-rendering: optimizeLegibility
+    > .post-tags > .item
+        padding: 2px 8px
+        border-radius: 3px
+        font-size: 1rem
+        background: $epsilon
+        color: $porygon-blue
+        letter-spacing: 0.5px
+        margin: 3px 1px
+        text-decoration: none
+        display: inline
+
+
+.home > .list > .item,
+    > .post-tags
+        color: $gama
+        font-weight: 300
+        font-size: 1.4rem
+        text-transform: uppercase
+        text-align: center
+        float: center
+        display: block
+        margin-bottom: 0rem
+        margin-top: -0.8rem
+        letter-spacing: 1px
+        -webkit-font-smoothing: antialiased
+        text-rendering: optimizeLegibility
+    > .post-tags > .item
+        padding: 2px 8px
+        border-radius: 3px
+        font-size: 1rem
+        background: $epsilon
+        color: $porygon-pink
+        letter-spacing: 0.5px
+        margin: 3px 1px
+        text-decoration: none
+        display: inline
+
+
 .blog > .list > .item > .url,
+.experience > .list > .item > .url,
 .projects > .list > .item > .url
     > .title
         display: inline
