@@ -8,7 +8,7 @@ layout: page
 <center> <h2> about me </h2> </center>
 <br class="porygon-line"/>
 <p align="center">
-	<img class="porygon" src='/assets/images/porygon.png' >
+	<img class="porygon" src='assets/images/porygon.png' >
 </p>
 <br class="porygon-line"/>
 
@@ -44,16 +44,16 @@ layout: page
 
 <div class="inline-block">
  what's this?
-<img class="mini-porygon" src='/assets/images/porygon.png' max-width="10%">
+<img class="mini-porygon" src='assets/images/porygon.png' max-width="10%">
 </div>
 <p style="font-size:90%;"> This is my favorite Pokémon character, <b>Porygon</b>. It's the first artificial Pokémon to be made entirely from programming code, and was what put the topic of computer science on my radar at an early age. Its color scheme also inspired my website's design.</p>
 
 
 <center>
 <div class="inline-block">
-<img class="mini-porygon" src='/assets/images/porygon.png' max-width="10%"> porgyon
-<img class="mini-porygon" src='/assets/images/porygon2.png' max-width="10%"> porygon2
-<img class="mini-porygonz" src='/assets/images/porygonz.png' width="10%"> porygonZ
+<img class="mini-porygon" src='assets/images/porygon.png' max-width="10%"> porgyon
+<img class="mini-porygon" src='assets/images/porygon2.png' max-width="10%"> porygon2
+<img class="mini-porygonz" src='assets/images/porygonz.png' width="10%"> porygonZ
 </div>
 <center/>
 
