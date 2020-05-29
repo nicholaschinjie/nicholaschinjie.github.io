@@ -8,7 +8,7 @@ layout: page
 <center> <h2> about me </h2> </center>
 <br class="porygon-line"/>
 <p align="center">
-	<img class="porygon" src='assets/images/porygon.png' >
+	<img class="porygon" src='https://github.com/theblackathena/porygon/blob/master/assets/images/porygon.png' >
 </p>
 <br class="porygon-line"/>
 
