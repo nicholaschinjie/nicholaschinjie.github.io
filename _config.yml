@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://theblackathena.github.io
+url: https://nicholaschinjie.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -55,8 +55,8 @@ instagram: nicholas2chinz
 
 authors:
   nicholaschin:
-    name: 
-    bio: Aspiring Pokémon Trainer. Feel free to reach out to me at nicholaschin20@gmail.com
+    name: Nicholas Chin
+    bio: Aspiring Pokémon Trainer. Feel free to reach out to me at nicholaschin20@gmail.com!
     external-image: false
     picture: assets/images/profile.jpg
     # twitter: johndoe
@@ -81,6 +81,8 @@ projects: true
 # if you don't need "about" or "blog", comment them out below
 about: true
 blog: true
+experience: true
+showcase: true
 
 # do you want to show the "read time" of the posts?
 # read-time: true
@@ -92,7 +94,7 @@ show-tags: true
 related: true
 
 # Display links for next and previous posts for the specified categories
-post-advance-links: [blog]
+post-advance-links: 
 
 # show author block at the end of a post ?
 show-author: true

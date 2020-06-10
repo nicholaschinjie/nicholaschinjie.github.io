@@ -41,13 +41,13 @@ title: Home
         <h2 id="featured-projects"> <a style="color:black; text-decoration: none" href="/projects">featured projects</a>
         </h2>
     </center>
-
     {% for post in site.posts %}
     {% if post.featured-projects %}
     <div class="item {% if post.star %}star{% endif %}" align="center">
         <a class="url"
             href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
             <img class="image" src="{{ post.image }}" width="50%" style="margin-bottom: 8px"/>
+            <br>
             <h3 class="title">{{ post.title }}</h3>
             <p style="margin-bottom: 0px;margin-top:4px"> {{ post.description }} </p>
             <div class="post-tags">

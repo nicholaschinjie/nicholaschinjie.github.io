@@ -21,12 +21,11 @@ layout: page
 
   In a continuing effort to develop my abilities, I currently work as a part-time developer under the supervision of <a target="_blank" href="https://www.researchgate.net/profile/Ronald_Rensink="> Dr. Ronald A. Rensink</a> at the <a target="_blank" href="https://viscoglab.psych.ubc.ca/"> Visual Cognition Lab</a>. Here, I'm involved in the development of a novel JavaScript visualization framework that investigates human visual perception for data displays. <br><br>
 
-  Outside of work and class, I love tinkering with <a target="_blank" href="/projects"> cool projects</a>. I'll admit I have trouble selling some ideas to my friends, and only so many make it to <a target="_blank" href="https://github.com/theblackathena">Github</a>. I'm also a member of <a target="_blank" href="http://www.ubclaunchpad.com">UBC Launch Pad</a>, where we as a student-run engineering club collaboratively make some <a target="_blank" href="https://github.com/ubclaunchpad"> cooler projects</a>.<br><br>
+  Outside of work and class, I love tinkering with <a target="_blank" href="/projects"> cool projects</a>. I'll admit I have trouble selling some ideas to friends, and only so many make it to <a target="_blank" href="https://github.com/theblackathena">my Github</a>. I'm also a member of <a target="_blank" href="http://www.ubclaunchpad.com">UBC Launch Pad</a>, where we as a student-run engineering club collaboratively make some <a target="_blank" href="https://github.com/ubclaunchpad"> cooler projects</a>.<br><br>
 
-  While waiting for code to compile, you can find me outside trying to play better football with the lads. I'm a huge nerd when it comes to jazz music and competitive Pokémon games. I also play the piano, and you can find some of my attempting performances <a target="_blank" href="/piano">here</a>. 
+  While waiting for code to compile, you can find me outside trying to play better football with the lads. I'm a huge nerd when it comes to jazz music and competitive Pokémon games. I also play the piano, and you can find some of my attempting performances <a target="_blank" href="/showcase">here</a>. 
 </p>
 <br class="porygon-line"/>
-<br>
 <!-- <p align="center">
 	<img class="mini-porygon" src='/assets/images/porygon.png' max-width="10%">
 </p> -->
@@ -46,7 +45,7 @@ layout: page
  what's this?
 <img class="mini-porygon" src='/assets/images/porygon.png' max-width="10%">
 </div>
-<p style="font-size:90%;"> This is my favorite Pokémon character, <b>Porygon</b>. It's the first artificial Pokémon to be made entirely from programming code, and was what put the topic of computer science on my radar at an early age. Its color scheme also inspired my website's design.</p>
+<p style="font-size:90%;"> This is my favorite Pokémon character, <b>Porygon</b>. It's the first artificial Pokémon made completely out of programming code. It was what put the topic of computer science on my radar at an early age, and was what inspired this website's design.</p>
 
 
 <center>

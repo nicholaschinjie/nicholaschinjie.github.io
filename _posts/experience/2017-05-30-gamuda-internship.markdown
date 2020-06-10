@@ -10,9 +10,9 @@ tag:
     - linux
     - pen testing
 star: true
-category: experience 
+category: experience
 experience: true
-author: nicholas chin
+author: nicholaschin
 description: May 2017 - July 2017  |  Malaysia, Kuala Lumpur
 --- 
 

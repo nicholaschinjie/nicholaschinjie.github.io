@@ -1,0 +1,36 @@
+---
+layout: page
+title: Showcase
+---
+
+<hr />
+<center>
+	<h2 id="showcase"> <a style="color:black; text-decoration: none" href="/showcase">performances</a>
+	</h2>
+</center>
+
+<p align="center">
+    <img class="piano" src='/assets/images/piano.jpg'>
+    
+    I sometimes play the piano.
+</p>
+
+
+<section class="list">
+    {% for post in site.posts %}
+        {% if post.showcase %}
+            <div class="item">
+                {% if post.star %}<br />{% endif %}
+                <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
+                    <h3 class="title">{{ post.title }}</h3>
+                    {% if post.star %}
+                        <br />
+                        <img class="image" src="{{ post.image }}" width="100%" style="margin-top:16px"/>
+                    {% endif %}
+                    <p> {{ post.description }} </p>
+                </a>
+                {% if post.star %}<br />{% endif %}
+            </div>
+        {% endif %}
+    {% endfor %}
+</section>

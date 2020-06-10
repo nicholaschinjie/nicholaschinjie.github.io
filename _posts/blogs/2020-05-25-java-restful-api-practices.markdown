@@ -2,7 +2,10 @@
 title: "Introduction to Java APIs using Spring"
 layout: post
 date: 2016-01-23 22:10
-tag: jekyll
+tag:
+- java
+- spring
+- api
 headerImage: false
 blog: true 
 blog-highlights: true

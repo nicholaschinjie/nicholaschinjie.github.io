@@ -12,9 +12,11 @@ tag:
     - pcf
     - docker
 star: true
+blog: true
+hidden: true
 category: experience 
 experience: true
-author: nicholas chin
+author: nicholaschin
 description: May 2020 - December 2020  |  Vancouver B.C 
 --- 
 

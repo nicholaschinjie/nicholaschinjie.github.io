@@ -13,7 +13,7 @@ tag:
 star: true
 category: experience 
 experience: true
-author: nicholas chin
+author: nicholaschin
 description: September 2018 - Present  |  Vancouver B.C
 --- 
 
