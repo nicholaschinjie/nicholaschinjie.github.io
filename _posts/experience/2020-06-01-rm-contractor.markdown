@@ -1,23 +1,21 @@
 ---
-title: "Full-Stack Developer Intern" 
+title: "Full-Stack Developer (Contract)" 
 layout: post 
-date: 2020-05-17 23:50
-image: /assets/images/org/hsbc.png
+date: 2020-06-01 23:00
+image: /assets/images/org/rm.png
 headerImage: true
 tag: 
     - internship 
-    - java 
-    - spring
-    - react
-    - pcf
+    - golang
     - docker
+    - kubernetes
 star: true
 blog: true
 hidden: true
 category: experience 
 experience: true
 author: nicholaschin
-description: May 2020 - December 2020  |  Vancouver B.C 
+description: May 2020 - Present  |  Remote
 --- 
 
 ## Summary: 

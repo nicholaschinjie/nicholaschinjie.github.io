@@ -1,18 +1,21 @@
 ---
-title: "Why I Failed To Graduate On Time"
+title: "On Not Graduating On Time"
 layout: post
 date: 2020-06-05 17:00
 tag:
-- misc
-- personal
+- internship
+- cogs
+- journal
+
 headerImage: false
 blog: true 
-blog-highlights: true
-description: "How an extra year of university made all the difference"
+blog-highlights: false
+description: "taking some time off school to gain work experience"
 category: blog
 author: nicholaschin
 externalLink: false
 ---
+
 
 The Year is 2020. Civil unrest erupts in Amercia in response to the killing of George Floyd, anti-government protests continue to intensify in Hong Kong, Malaysia  All this, notably, is happening in the midst of a global pandemic; one that has forced millions into unemployment, affected businesses, and 
 

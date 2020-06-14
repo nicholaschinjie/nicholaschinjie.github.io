@@ -7,8 +7,7 @@ headerImage: true
 tag:    
     - javascript
     - nodejs
-    - d3
-    - visualization
+    - data-viz
     - research
 star: true
 category: experience 

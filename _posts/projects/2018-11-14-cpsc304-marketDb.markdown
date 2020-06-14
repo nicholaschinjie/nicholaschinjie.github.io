@@ -7,7 +7,7 @@ image: /assets/images/projects/dbmart-preview.png
 headerImage: false
 star: true # star means headerImage will bee shown
 projects: true
-# featured-projects: true # feature on home page
+featured-projects: false # feature on home page
 description: "Your :computer: is a marketplace! :money_with_wings:"
 category: featured-project, project
 author: nicholaschin

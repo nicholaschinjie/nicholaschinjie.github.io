@@ -9,15 +9,18 @@ title: Home
     <!-- <img class="image" display="inline-block" src="/assets/images/porygon.png" width="30px" /> -->
 
     <center>
-        <h2 id="work-experience"> <a style="color:black; text-decoration: none" href="#work-experience"> work
-                experience </a> </h2> 
+        <h2 style="font-weight:400;text-align:center" id="work-experience">
+            <a style="color:black;text-decoration: none;" href="#work-experience">work experience</a>
+        </h2>
     </center>
+    
 
     {% for post in site.posts %} {% if post.experience %}
     <div class="item" align="center">
         <a class="url"
             href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
             <img class="image" src="{{ post.image }}" width="160px"/>
+            <br/>
             <h3 class="title">{{ post.title }}</h3>
             <div class="post-tags">
                 {% for tag in post.tags %}
@@ -34,20 +37,21 @@ title: Home
 
 </section>
 
-<!-- FEATURED PROJECTS --> 
+
+<!-- BLOG HIGHLIGHTS -->
 
 <section class="list">
     <center>
-        <h2 id="featured-projects"> <a style="color:black; text-decoration: none" href="/projects">featured projects</a>
-        </h2>
+        <h2 style="font-weight:400;text-align:center" id="blog-highlights">
+            <a style="color:black;text-decoration: none;" href="/blog">blog highlights</a>
+        </h2>        
     </center>
     {% for post in site.posts %}
-    {% if post.featured-projects %}
+    {% if post.blog-highlights %}
     <div class="item {% if post.star %}star{% endif %}" align="center">
         <a class="url"
-            href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
-            <img class="image" src="{{ post.image }}" width="50%" style="margin-bottom: 8px"/>
-            <br>
+            href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}"> <br>
+            <img class="image" src="{{ post.image }}" width="50%" style="margin-bottom: 8px" loop=infinite/>
             <h3 class="title">{{ post.title }}</h3>
             <p style="margin-bottom: 0px;margin-top:4px"> {{ post.description }} </p>
             <div class="post-tags">
@@ -61,21 +65,21 @@ title: Home
     {% endfor %}
 </section>
 
-
-<!-- BLOG HIGHLIGHTS -->
+<!-- FEATURED PROJECTS --> 
 
 <section class="list">
     <center>
-        <h2 id="blog-highlights"> <a style="color:black; text-decoration: none" href="/blog">blog highlights</a>
-        </h2>
+        <h2 style="font-weight:400;text-align:center" id="featured-projects">
+            <a style="color:black;text-decoration: none;" href="/projects">featured projects</a>
+        </h2>        
     </center>
 
     {% for post in site.posts %}
-    {% if post.blog-highlights %}
+    {% if post.featured-projects %}
     <div class="item {% if post.star %}star{% endif %}" align="center">
         <a class="url"
             href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
-            <img class="image" src="{{ post.image }}" width="50%" style="margin-bottom: 8px" loop=infinite/>
+            <img class="image" src="{{ post.image }}" width="50%" style="margin-bottom: 8px"/>
             <h3 class="title">{{ post.title }}</h3>
             <p style="margin-bottom: 0px;margin-top:4px"> {{ post.description }} </p>
             <div class="post-tags">

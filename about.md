@@ -5,7 +5,11 @@ layout: page
 <!-- ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}) -->
 
 <hr/>
-<center> <h2> about me </h2> </center>
+<center> 
+        <h2 style="font-weight:400;text-align:center" id="about-me">
+            <a style="color:black;text-decoration: none;">about me</a>
+        </h2>     
+</center>
 <br class="porygon-line"/>
 <p align="center">
 	<img class="porygon" src='/assets/images/porygon.png' >
@@ -34,15 +38,15 @@ layout: page
 <hr/>
 
 
-#### more about me
-<p style="font-size:90%;">Here's a copy of my most recent (though sometimes outdated) <b><a target="_blank" href="mailto:nicholaschin20@gmail.com">résumé</a></b>.</p>
+##### more about me
+<p style="font-size:90%;">Here's a copy of my most recent (though sometimes outdated) <a target="_blank" href="mailto:nicholaschin20@gmail.com">résumé</a>.</p>
 
 
-#### getting in touch
+##### getting in touch
 <p style="font-size:90%;">Feel free to reach out to me by <a target="_blank" href="mailto:nicholaschin20@gmail.com">email</a> (nicholaschin20@gmail.com). I'm also active on <a target="_blank" href="https://www.linkedin.com/in/nicholaschinjie/">LinkedIn</a> too! </p> 
 
+##### what's this?
 <div class="inline-block">
- what's this?
 <img class="mini-porygon" src='/assets/images/porygon.png' max-width="10%">
 </div>
 <p style="font-size:90%;"> This is my favorite Pokémon character, <b>Porygon</b>. It's the first artificial Pokémon made completely out of programming code. It was what put the topic of computer science on my radar at an early age, and was what inspired this website's design.</p>
