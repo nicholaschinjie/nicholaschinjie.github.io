@@ -1,17 +1,19 @@
 ---
-title: "Software Developer & Research Assistant (Part-Time)" 
+title: "Research Assistant (Part-Time)" 
 layout: post 
 date: 2020-05-17 23:47
 image: /assets/images/org/vcl.png
 headerImage: true
-tag:    
-    - javascript
-    - nodejs
-    - data-viz
+tag:
     - research
+    - data-viz
+    - psychophysics
+    - javascript
+    
 star: true
 category: experience 
 experience: true
+subtitle: UBC Visual Cognition Lab
 author: nicholaschin
 description: September 2018 - Present  |  Vancouver B.C
 --- 

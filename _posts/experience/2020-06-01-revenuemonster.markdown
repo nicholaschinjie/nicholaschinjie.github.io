@@ -14,16 +14,10 @@ blog: true
 hidden: true
 category: experience 
 experience: true
+subtitle: Revenue Monster 
 author: nicholaschin
 description: May 2020 - Present  |  Remote
 --- 
 
 ## Summary: 
 
-<!-- Intro -->
-
-<!-- Verified Me -->
-
-<!-- Credit Card Checks -->
-
-<!-- Background Checks  -->

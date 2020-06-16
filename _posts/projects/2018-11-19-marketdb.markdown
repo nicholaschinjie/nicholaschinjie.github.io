@@ -1,17 +1,24 @@
 ---
-title: "CPSC 304: 🎉 💵 Market Database 💻 🎉"
+title: "🛒 Interfacing a Relational Database to the Web"
 layout: post
 date: 2018-11-14 22:10
-tag: jekyll
+tag: 
+- nodejs
+- express
+- mysql
 image: /assets/images/projects/dbmart-preview.png
 headerImage: false
 star: true # star means headerImage will bee shown
 projects: true
 featured-projects: false # feature on home page
-description: "Your :computer: is a marketplace! :money_with_wings:"
-category: featured-project, project
+description: "<i> dbMart </i> - query-based online marketplace for users to buy, search for, and sell things"
+category: project
 author: nicholaschin
 externalLink: false
 ---
+
+Note: this was before I'd heard about APIs 
+
+- blog idea: callback hell 
 
 https://github.com/group46/dbMart

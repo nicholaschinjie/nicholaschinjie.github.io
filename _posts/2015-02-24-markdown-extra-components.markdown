@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Markdown Extra Components"
 layout: post
 date: 2016-02-24 22:48
@@ -11,7 +11,7 @@ tag:
 category: experience
 author: jamesfoster
 description: Markdown summary with different options
----
+--- -->
 
 
 ## Summary:

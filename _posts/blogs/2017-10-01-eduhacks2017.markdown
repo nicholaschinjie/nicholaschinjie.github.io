@@ -1,10 +1,10 @@
 ---
-title: "Down the Hacker Rabbit Hole"
+title: "Eduhacks 2017: Down the Rabbit Hole"
 layout: post
 date: 2017-10-05 22:10
 tag:
 - hackathon
-- journal
+- dev-diary
 image: /assets/images/blogs/secondplace.jpg
 headerImage: true
 featuredImage: true
@@ -72,3 +72,6 @@ the dopamine
 
 - And no matter how much you learn. There's always more. The constant learning cycle is essential to staying viable. 
 The Constant Learning Cycle of a Web Developer 
+
+
+Now the world of industry is a complete different beast, but as long as you approach things with the same growth-mindset and a continuous desire to learn (as described in this blog), you're all good to go. 

@@ -7,11 +7,12 @@ headerImage: true
 tag: 
     - internship
     - python
-    - linux
-    - pen testing
+    - gophish
+    - pen-test
 star: true
 category: experience
 experience: true
+subtitle: Gamuda Berhad
 author: nicholaschin
 description: May 2017 - July 2017  |  Malaysia, Kuala Lumpur
 --- 

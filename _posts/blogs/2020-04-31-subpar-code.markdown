@@ -1,22 +1,23 @@
 ---
-title: "Four Years of Building Bad Projects" 
+title: "Subpar Code Quality Not Indicative of Employers"
 layout: post
 date: 2020-04-31 12:00
 image: /assets/images/blogs/dab.gif
 headerImage: false
 featuredImage: false
 tag:
-- Personal-Project
-- Hackathon
-- journal
+- hacks
+- hackathon
+- dev-diary
 category: blog
 blog: true 
 # star: true
 blog-highlights: true
 author: nicholaschin
-description: and here's to many, many more 
-# description: sometimes it's not always about the product, but more about the process 
+description: tinkering - it's not always about the product, but the process 
 ---
+
+If you've ever seen my github, it's terrifying. 
 
 with the exception of some decent ones
 

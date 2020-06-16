@@ -18,6 +18,11 @@ layout: page
 
 
 <p>Hi there! My name is <b>Nicholas</b> and I'm a student majoring in Cognitive Systems with a passion for <b>software engineering</b>. <br> </p>
+Backend development (to build applications that abide by best practices + smart architecture + optimized data structures) + Devops (and get it out to the people, available and best performance distributed)
+Micro: algorithmic level = using best data structures (concurrent hashmap, LL) / application design = best API protocols
+Macro: performance + optimization = scaling & distributed systems 
+Mostly API dev rn, getting into distributed systems and devops. 
+At the end of the day, I wanna know how to do it all myself 
 
 <p>I have professional working experience with <b> Java </b> (Spring) and <b> JavaScript</b>, but above all, I'm eager to learn new things.<br/><br/>
 

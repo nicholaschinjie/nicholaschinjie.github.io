@@ -51,7 +51,7 @@ title: Home
     <div class="item {% if post.star %}star{% endif %}" align="center">
         <a class="url"
             href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}"> <br>
-            <img class="image" src="{{ post.image }}" width="50%" style="margin-bottom: 8px" loop=infinite/>
+            <img class="image" src="{{ post.image }}" width="35%" style="margin-bottom: 8px" loop=infinite/>
             <h3 class="title">{{ post.title }}</h3>
             <p style="margin-bottom: 0px;margin-top:4px"> {{ post.description }} </p>
             <div class="post-tags">

@@ -10,7 +10,12 @@
                     <ul>
                     {% endif %}
                     <li class="relatedPost">
-                        <a href="{{ site.url }}{{ post.url }}">{{ post.title }}
+                        {% if post.experience == true %}
+                            <a href="{{ site.url }}{{ post.url }}"> {{ post.subtitle }}
+                        {% else %}
+                            <a href="{{ site.url }}{{ post.url }}">{{ post.title }}
+                        {% endif %}
+
                         {% if post.series %}
                             (Series: {{ post.series }})
                         {% endif %}

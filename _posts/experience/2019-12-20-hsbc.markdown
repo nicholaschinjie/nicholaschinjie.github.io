@@ -9,13 +9,15 @@ tag:
     - java 
     - spring
     - react
-    - aws
-    - docker
+    - jenkins
+    - PCF 
+
 star: true
 blog: true
 hidden: true
 category: experience 
 experience: true
+subtitle: HSBC
 author: nicholaschin
 description: May 2019 - December 2019  |  Vancouver B.C 
 --- 
