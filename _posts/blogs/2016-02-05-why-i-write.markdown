@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "The terrible and wonderful reasons why I write"
 layout: post
 date: 2017-04-31 12:00
@@ -42,4 +42,4 @@ It demonstrates commitment
 - for recruiters to learn about me (my specializations)
 - for strangers who stumbled upon a cogs student who made it 
  
-Physics IA shook 
+Physics IA shook  -->

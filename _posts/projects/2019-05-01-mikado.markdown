@@ -1,0 +1,28 @@
+---
+title: "🧳 Another Travel Recommendation App"
+layout: post
+date: 2019-05-01 14:17
+tag: 
+- swift
+- html
+- javascript
+headerImage: false
+projects: true
+featured-projects: false # feature on home page
+description: "<i> mikado </i> - organize your next adventure"
+category: project
+author: nicholaschin
+externalLink: false
+---
+
+<p align="center">
+    <img src="/assets/images/projects/mikado-preview.png" width="80%" />
+</p>
+
+<p align="center">
+    <a href="https://github.com/UBC-VCL/VCLWebFramework"> 
+        <img src="https://img.shields.io/badge/github-ubclaunchpad%2Fmikado-green.svg?style=for-the-badge&logo=github">
+    </a>
+</p>
+
+https://ubclaunchpad.github.io/mikado/ 

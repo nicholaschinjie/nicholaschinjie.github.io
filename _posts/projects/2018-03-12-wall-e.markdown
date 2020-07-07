@@ -1,0 +1,20 @@
+---
+title: "🤖 Maze Solving Robot"
+layout: post
+date: 2018-03-12 15:48
+tag: 
+- C
+- Arduino
+headerImage: false
+projects: true
+featured-projects: false # feature on home page
+description: "<i> wall-e 2.0 </i> - autonomous pathfinding maze runner armed with terrible hardware"
+category: project
+author: nicholaschin
+externalLink: false
+---
+
+<p align="center">
+    <img src="/assets/images/projects/walle.gif" width="90%" />
+</p>
+

@@ -1,5 +1,5 @@
 ---
-title: "Subpar Code Quality Not Indicative of Employers"
+title: "Four Years of Bad Code"
 layout: post
 date: 2020-04-31 12:00
 image: /assets/images/blogs/dab.gif
@@ -17,7 +17,7 @@ author: nicholaschin
 description: tinkering - it's not always about the product, but the process 
 ---
 
-If you've ever seen my github, it's terrifying. 
+<!-- If you've ever seen my github, it's terrifying. 
 
 with the exception of some decent ones
 
@@ -43,4 +43,4 @@ Gallery
 sometimes you gotta check before you start
 but it's not like you're building company, just learn 
 
-- don't even get me started on the hackathon projects (should I include?)
+- don't even get me started on the hackathon projects (should I include?) -->

@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "RESTful API Best Practices"
 # title: "Maximal Functionality, Minimal Effort"
 layout: post
@@ -25,4 +25,4 @@ Now, if you're unfamiliar with what an API is (like I still am), Google defines 
 Before we can use an API, we need to first figure out what endpoint to call. Luckily, the third party API I was tasked to integrate calls with was stacked with great [documentation][https://www.themoviedb.org/documentation/api?language=en-US]. I personally think this is single-handedly the most important step in the entire process: hit an API endpoint before doing anything else, and take note what the required request fields and expected response bodies are. Until you've done this, you should not 
 
 ![](../assets/blog-images/first-hit-api.png)
-
+ -->

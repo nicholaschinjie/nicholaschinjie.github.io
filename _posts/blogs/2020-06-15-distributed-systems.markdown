@@ -1,4 +1,4 @@
-# To build a modern backend 
+<!-- # To build a modern backend 
 not something I can learn on local projects, this is amazing 
 
 ## microservices vs monolithic
@@ -75,4 +75,4 @@ no sir no web dev for me
 all about deploying and scaling 
 I want to be able to architect for my own company one day 
 
-- not all about code, rather, about getting it out there 
+- not all about code, rather, about getting it out there  -->

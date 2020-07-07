@@ -1,5 +1,5 @@
 ---
-title: "🎵 Song Lyric Similarizer"
+title: "🎵 Lyric-Based Music Recommendations"
 layout: post
 date: 2018-01-15 22:10
 tag: 
@@ -7,7 +7,7 @@ tag:
 - python
 - machine learning
 - javascript
-headerImage: false
+# headerImage: false
 projects: true
 featured-projects: false # feature on home page
 description: "<i> lyricistics </i> - an AI trained to make lyrically-similar song recommendations"
@@ -16,8 +16,13 @@ category: project
 externalLink: false
 ---
 
+<p align="center">
+    <a href="https://github.com/nicholaschinjie/song-lyric-similaritizer"> 
+        <img src="https://img.shields.io/badge/github-lyricistics-green.svg?style=for-the-badge&logo=github">
+    </a>
+</p>
 
-# Lyricistics
+# Lyricistics 
 Lyricistics is an AI trained to make **lyrically-similar** song recommendations, contrary to the genre-based recommendations most music streaming services offer. Built by a team of 3 within the 24 hours of nwHacks 2018, this post serves to illustrates our experimentation with machine learning techniques to analyse and classify the content and meaning behind songs' lyrics make 'appropriate' music recommendations. The idea in practice is rather simple: when listening to a song you enjoy for its lyrical sentiment, the AI's search will (hopefully) yield a list of songs sharing a similar style of lyrics to it.
 
 

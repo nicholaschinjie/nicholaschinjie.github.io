@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "A Darwinian Reading of API-culture"
 # title: "The Darwinian Approach to API-culture"
 layout: post
@@ -27,4 +27,4 @@ https://apievangelist.com/2012/12/20/history-of-apis/
 what's next? 
 
     - Protobuf sends info out as binary, unlike JSON which sends out as text. FASTER, smaller size data transfer 
-        - Client receives binary, converts back into text (protobuf x grpc) what’s the connection? 
+        - Client receives binary, converts back into text (protobuf x grpc) what’s the connection?  -->

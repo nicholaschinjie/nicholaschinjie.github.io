@@ -1,0 +1,30 @@
+---
+title: "🚴 Safer Pathfinding with Google Maps"
+layout: post
+date: 2018-09-26 06:10
+tag: 
+- hackathon
+- javascript 
+- python 
+image: /assets/images/projects/bikesafe.png
+headerImage: false
+star: true
+projects: true
+featured-projects: false # feature on home page
+description: "<i> bikesafe </i> - using Vancouver's traffic collision history to provide cyclists safer bike routes"
+author: nicholaschin
+category: project
+externalLink: false
+---
+
+<p align="center">
+    <img src="/assets/images/projects/bikesafe.png" width="80%" />
+</p>
+
+
+<p align="center">
+    <a href="https://github.com/Stoked-Theorem/VANquish-Bike-Accidents"> 
+        <img src="https://img.shields.io/badge/github-bikesafe-green.svg?style=for-the-badge&logo=github">
+    </a>
+</p>
+

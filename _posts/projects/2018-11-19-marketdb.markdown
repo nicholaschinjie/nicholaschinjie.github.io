@@ -1,21 +1,29 @@
 ---
 title: "🛒 Interfacing a Relational Database to the Web"
 layout: post
-date: 2018-11-14 22:10
+date: 2018-11-19 22:10
 tag: 
 - nodejs
 - express
 - mysql
-image: /assets/images/projects/dbmart-preview.png
 headerImage: false
-star: true # star means headerImage will bee shown
 projects: true
 featured-projects: false # feature on home page
-description: "<i> dbMart </i> - query-based online marketplace for users to buy, search for, and sell things"
+description: "<i> dbmart </i> - query-based online marketplace for users to buy, search for, and sell things"
 category: project
 author: nicholaschin
 externalLink: false
 ---
+
+<p align="center">
+    <img src="/assets/images/projects/dbmart-preview.png" width="80%" />
+</p>
+
+<p align="center">
+    <a href="https://github.com/group46/dbMart"> 
+        <img src="https://img.shields.io/badge/github-%2FdbMart-green.svg?style=for-the-badge&logo=github">
+    </a>
+</p>
 
 Note: this was before I'd heard about APIs 
 

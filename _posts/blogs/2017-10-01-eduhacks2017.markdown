@@ -35,7 +35,7 @@ What I wish I knew at the time was that the hacker community, no matter how insu
 That was the first important thing I learnt that day. To venture out of one's comfort zone at a hackathon is to continuously try to meet new people and work together. The process of working with strangers instead of friends may be initially daunting, especially when lacking confidence. But it presents a rare opportunity to participate in a dialougue where initially alien concepts, algorithms, tools etc. are put on your radar. And the only way to overcome the information overload that follows, is to find out more in your own time - one step at a time.
 
 
-
+<!-- 
 
 But in the moment, ain't got no time for games, CODE AND FIGURE IT OUT NOW! 
 
@@ -74,4 +74,4 @@ the dopamine
 The Constant Learning Cycle of a Web Developer 
 
 
-Now the world of industry is a complete different beast, but as long as you approach things with the same growth-mindset and a continuous desire to learn (as described in this blog), you're all good to go. 
+Now the world of industry is a complete different beast, but as long as you approach things with the same growth-mindset and a continuous desire to learn (as described in this blog), you're all good to go.  -->
