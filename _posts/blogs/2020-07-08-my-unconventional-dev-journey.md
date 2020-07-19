@@ -17,7 +17,7 @@ externalLink: false
 ---
 
 <p align="center">
-    <img src="/assets/images/blogs/stickers.png" width="70%" />
+    <img src="/assets/images/blogs/stickers.png" width="100%" />
 </p>
 
 <p align="center">
@@ -40,8 +40,9 @@ For every hackathon I went, I was compensated by a list of tools and technologie
 
 On the job, being tasked onto production-related projects exemplified my sense of pride in writing code that mattered. Yet it also meant I had to be more hungry and driven to learn than ever. The process was enthralling. I was introduced to an agile way of working, experiencing each part of a project's lifecycle. Runtime performance and application security were of utmost importance; factors I'd admittedly neglected in my personal projects. I was taught to adopt modular and microservice-based design practices for the sake of scalability. More work was piled on top of developing services themselves - to establish dev/prod parity, build pipelines for continuous deployment, and administer logging for post-production support. Most importantly, I began to receive feedback on my contributions. I could finally see what I was doing right, what is best practice, and where I needed to improve. And once I began to prove myself, I was rewarded more responsibility - owning parts of products, personally liaising with external parties, held accountable for the delivery of results. To be hired as an intern was one thing, but to come away regarded no different from a full-timer (aside from the pay gap and job security) is another.
 
+<br>
 <p align="center">
-    <img src="/assets/images/blogs/interns2019.png" width="50%" />
+    <img src="/assets/images/blogs/interns2019.png" width="70%" />
 </p>
 
 <p align="center">
