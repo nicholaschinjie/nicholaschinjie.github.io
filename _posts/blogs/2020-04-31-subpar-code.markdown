@@ -14,7 +14,7 @@ blog: true
 # star: true
 blog-highlights: true
 author: nicholaschin
-description: tinkering - it's not always about the product, but the process 
+description: subpar code quality not indicative of employer
 ---
 
 <!-- If you've ever seen my github, it's terrifying. 

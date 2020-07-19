@@ -10,7 +10,7 @@ image: /assets/images/blogs/stickers.png
 featuredImage: true
 blog: true 
 blog-highlights: true
-description: sometimes it's more about the process
+description: it's not always about the product, but the process 
 category: blog
 author: nicholaschin
 externalLink: false
