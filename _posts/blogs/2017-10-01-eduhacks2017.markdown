@@ -10,7 +10,8 @@ headerImage: true
 featuredImage: true
 blog: true 
 blog-highlights: true
-description: "how both attending, then winning, my first hackathon would set the tone for the rest of my studenthood"
+description: "how both attending, then winning, my first hackathon would set the tone of my studenthood"
+# the rest of my
 category: blog
 author: nicholaschin
 externalLink: false

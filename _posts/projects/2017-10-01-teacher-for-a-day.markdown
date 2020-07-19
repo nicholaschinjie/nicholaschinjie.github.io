@@ -31,17 +31,19 @@ Many people outside of the field of education are unaware or wondering what it i
 
 The planning phase of the game will open up to a template of a day plan containing activities to be completed. This will then be followed by a teaching phase, where players assume the role of a teacher in interacting with their students through the selected activties. 
 
+<br>
 <p align="center">
-    <video width="480" height="360" controls>
+    <video width="65%" controls>
     <source src="/assets/images/projects/tfad.mov" type="video/mp4">
     Your browser does not support the video tag.
     </video>
 </p>
 
 <p align="center">
-    <i style="font-size:90%;">A quick preview of what gameplay looks like.
+    <i style="font-size:90%;">Preview of what gameplay looks like.
     </i>
 </p>
+<br>
 
 Completely built by a team of 5 within the 24 hours of <a href="https://eduhacks.com/"> Eduhacks 2017</a>, this game currently features: 
 
@@ -52,6 +54,7 @@ Completely built by a team of 5 within the 24 hours of <a href="https://eduhacks
 * **carefully-crafted characters**, students are laid out in table groups, which is a common layout in classrooms at all grade levels. While some students are average students, the teacher’s responsibility is to also look out for five personality types of students - the over-enthusiastic, rebellious, know-it-all - you get the idea. 
 
 
+<br>
 <p align="center">
     <img src="/assets/images/projects/student1.png" width="20%" />
 </p>
