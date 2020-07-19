@@ -25,7 +25,7 @@ externalLink: false
 
 # Wall-E 2.0
 
-<i> Wall-E 2.0 </i> is a semi-autonomous robot optimized to navigate without any assistance or help. This particular challenge was slapped a tasty 25% of my final grade for a 300-level Cognitive Systems course which seemed like free real estate. How difficult could designing a pathfinding algorithm be?
+<i> Wall-E 2.0 </i> is a semi-autonomous robot optimized to navigate without any assistance or help. This particular challenge was slapped a tasty 20% for a 300-level Cognitive Systems course which seemed like free real estate. How difficult could designing a pathfinding algorithm be?
 
 Despite being provided only two ultrasonic sensors, the algorithm I wrote to pathfind - equipped on the front and left side of the robot respectively - was theoretically sound. However, realizing their functionality physically was a nightmare. In one instance, I found out the sensor was configured with such a low refresh rate the robot would always act on information at least 2 seconds in the past. The sensors failed to register if they were positioned too far from the mazes' walls as well. 
 
