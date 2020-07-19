@@ -1,5 +1,5 @@
 ---
-title: "🤖 Maze Solving Robot"
+title: "🤖 Pathfinding Robot"
 layout: post
 date: 2018-03-12 15:48
 tag: 
@@ -8,13 +8,25 @@ tag:
 headerImage: false
 projects: true
 featured-projects: false # feature on home page
-description: "<i> wall-e 2.0 </i> - autonomous pathfinding maze runner armed with terrible hardware"
+description: "<i> wall-e 2.0 </i> - autonomous maze runner armed with terrible hardware"
 category: project
 author: nicholaschin
 externalLink: false
 ---
 
 <p align="center">
-    <img src="/assets/images/projects/walle.gif" width="90%" />
+    <img src="/assets/images/projects/walle.gif" width="100%" />
+</p>
+<p align="center">
+    <i style="font-size:90%;">It knows the way... sort of.  
+    </i>
 </p>
 
+
+# Wall-E 2.0
+
+<i> Wall-E 2.0 </i> is a semi-autonomous robot optimized to navigate without any assistance or help. This particular challenge was slapped a tasty 25% of my final grade for a 300-level Cognitive Systems course which seemed like free real estate. How difficult could designing a pathfinding algorithm be?
+
+Despite being provided only two ultrasonic sensors, the algorithm I wrote to pathfind - equipped on the front and left side of the robot respectively - was theoretically sound. However, realizing their functionality physically was a nightmare. In one instance, I found out the sensor was configured with such a low refresh rate the robot would always act on information at least 2 seconds in the past. The sensors failed to register if they were positioned too far from the mazes' walls as well. 
+
+Whatever the effort in designing the pathfinding algorithm, hardware debugging took five times the effort. It's safe to say I won't be making a shift to hardware engineering anytime soon. 

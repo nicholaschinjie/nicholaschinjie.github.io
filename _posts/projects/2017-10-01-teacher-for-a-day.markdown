@@ -18,7 +18,7 @@ externalLink: false
 ---
 
 <p align="center">
-    <img src="/assets/images/projects/tfad.png" width="80%" />
+    <img src="/assets/images/projects/tfad.png" width="100%" />
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ The planning phase of the game will open up to a template of a day plan containi
 
 <br>
 <p align="center">
-    <video width="65%" controls>
+    <video width="100%" controls>
     <source src="/assets/images/projects/tfad.mov" type="video/mp4">
     Your browser does not support the video tag.
     </video>

@@ -42,7 +42,7 @@ On the job, being tasked onto production-related projects exemplified my sense o
 
 <br>
 <p align="center">
-    <img src="/assets/images/blogs/interns2019.png" width="70%" />
+    <img src="/assets/images/blogs/interns2019.png" width="100%" />
 </p>
 
 <p align="center">
