@@ -29,7 +29,7 @@ externalLink: false
 <p align="center">
     <img src="https://img.shields.io/badge/watching-26-00A9FD.svg" />
     <img src="https://img.shields.io/badge/commits-503-4DA0B2.svg" />
-    <img src="https://img.shields.io/badge/contributors-10-green.svg" />
+    <img src="https://img.shields.io/badge/contributors-10-brightgreen.svg" />
     <img src="https://img.shields.io/badge/status-ongoing-FDB000.svg" />
 </p>
 

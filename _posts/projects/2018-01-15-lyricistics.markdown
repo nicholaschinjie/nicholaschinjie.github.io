@@ -22,7 +22,7 @@ externalLink: false
     </a>
 </p>
 <p align="center">
-    <img src="https://img.shields.io/badge/contributors-5-green.svg" />
+    <img src="https://img.shields.io/badge/contributors-5-brightgreen.svg" />
     <img src="https://img.shields.io/badge/hackathon-nwHacks%202018-4DA0B2.svg" />
     <img src="https://img.shields.io/github/languages/top/azh/song-lyric-similaritizer.svg?colorB=00A9FD"
         alt="Backend language" />
