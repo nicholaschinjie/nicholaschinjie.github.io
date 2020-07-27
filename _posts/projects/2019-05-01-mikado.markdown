@@ -16,13 +16,19 @@ externalLink: false
 ---
 
 <p align="center">
-    <img src="/assets/images/projects/mikado-preview.png" width="80%" />
+    <img src="/assets/images/projects/mikado-preview.png" width="120%" />
 </p>
 
 <p align="center">
     <a href="https://github.com/UBC-VCL/VCLWebFramework"> 
-        <img src="https://img.shields.io/badge/github-ubclaunchpad%2Fmikado-green.svg?style=for-the-badge&logo=github">
+        <img src="https://img.shields.io/badge/github-mikado-E15967.svg?style=for-the-badge&logo=github">
     </a>
 </p>
+<p align="center">
+    <img src="https://img.shields.io/github/contributors/ubclaunchpad/mikado.svg" />
+    <img src="https://img.shields.io/github/languages/top/ubclaunchpad/mikado.svg?colorB=00A9FD"
+        alt="Server language" />
+</p>
+
 
 https://ubclaunchpad.github.io/mikado/ 

@@ -23,10 +23,8 @@ externalLink: false
 </p>
 
 
-# Wall-E 2.0
-
 <i> Wall-E 2.0 </i> is a semi-autonomous robot optimized to navigate without any assistance or help. This particular challenge was slapped a tasty 20% for a 300-level Cognitive Systems course which seemed like free real estate. How difficult could designing a pathfinding algorithm be?
 
 Despite being provided only two ultrasonic sensors, the algorithm I wrote to pathfind - equipped on the front and left side of the robot respectively - was theoretically sound. However, realizing their functionality physically was a nightmare. In one instance, I found out the sensor was configured with such a low refresh rate the robot would always act on information at least 2 seconds in the past. The sensors failed to register if they were positioned too far from the mazes' walls as well. 
 
-Whatever the effort in designing the pathfinding algorithm, hardware debugging took five times the effort. It's safe to say I won't be making a shift to hardware engineering anytime soon. 
+Whatever it cost to design the pathfinding algorithm, hardware debugging took five times the effort. It's safe to say I won't be making a shift to hardware engineering anytime soon. 

@@ -17,20 +17,21 @@ layout: page
 <br class="porygon-line"/>
 
 
-<p>Hi there! My name is <b>Nicholas</b> and I'm a student majoring in Cognitive Systems with a passion for <b>software engineering</b>. <br> </p>
+<!-- <p> <br> </p> -->
 <!-- Backend development (to build applications that abide by best practices + smart architecture + optimized data structures) + Devops (and get it out to the people, available and best performance distributed)
 Micro: algorithmic level = using best data structures (concurrent hashmap, LL) / application design = best API protocols
 Macro: performance + optimization = scaling & distributed systems 
 Mostly API dev rn, getting into distributed systems and devops. 
 At the end of the day, I wanna know how to do it all myself  -->
 
-<p>I have professional working experience with <b> Java </b> (Spring) and <b> JavaScript</b>, but above all, I'm eager to learn new things.<br/><br/>
+<!-- <p>I have professional working experience with <b> Java </b> (Spring) and <b> JavaScript</b>, but above all, I'm eager to learn new things.<br/><br/> -->
+  Hi there! My name is <b>Nicholas</b> and I'm a student majoring in Cognitive Systems with a passion for <b>software engineering</b>. <br>
 
-  In my most recent internship at <a target="_blank" href="https://www.hsbc.ca/"> HSBC</a>, I worked primarily on Spring-cloud-based API development using Java microservices. Some of my notable contributions include building software that handled online credit card applications, customer background verification, and implementing OpenID 2.0-based security logic. <br><br>
+  In my most recent internship at <a target="_blank" href="https://www.hsbc.ca/"> HSBC</a>, I worked primarily on Spring-cloud-based API development using Java microservices. Some of my notable contributions include building software that handled online credit card applications, customer background verification, and implementing OpenID 2.0-based security logic. <br>
 
-  In a continuing effort to develop my abilities, I currently work as a part-time developer under the supervision of <a target="_blank" href="https://www.researchgate.net/profile/Ronald_Rensink="> Dr. Ronald A. Rensink</a> at the <a target="_blank" href="https://viscoglab.psych.ubc.ca/"> Visual Cognition Lab</a>. Here, I'm involved in the development of a novel JavaScript visualization framework that investigates human visual perception for data displays. <br><br>
+  In a continuing effort to develop my abilities, I currently work as a part-time developer under the supervision of <a target="_blank" href="https://www.researchgate.net/profile/Ronald_Rensink="> Dr. Ronald A. Rensink</a> at the <a target="_blank" href="https://viscoglab.psych.ubc.ca/"> Visual Cognition Lab</a>. Here, I'm involved in the development of a novel JavaScript visualization framework that investigates human visual perception for data displays. <br>
 
-  Outside of work and class, I love tinkering with <a target="_blank" href="/projects"> cool projects</a>. I'll admit I have trouble selling some ideas to friends, and only so many make it to <a target="_blank" href="https://github.com/theblackathena">my Github</a>. I'm also a member of <a target="_blank" href="http://www.ubclaunchpad.com">UBC Launch Pad</a>, where we as a student-run engineering club collaboratively make some <a target="_blank" href="https://github.com/ubclaunchpad"> cooler projects</a>.<br><br>
+  Outside of work and class, I love tinkering with <a target="_blank" href="/projects"> cool projects</a>. I'll admit I have trouble selling some ideas to friends, and only so many make it to <a target="_blank" href="https://github.com/theblackathena">my Github</a>. I'm also a member of <a target="_blank" href="http://www.ubclaunchpad.com">UBC Launch Pad</a>, where we as a student-run engineering club collaboratively make some <a target="_blank" href="https://github.com/ubclaunchpad"> cooler projects</a>.<br>
 
   While waiting for code to compile, you can find me outside trying to play better football with the lads. I'm a huge nerd when it comes to jazz music and competitive Pokémon games. I also play the piano, and you can find some of my attempting performances <a target="_blank" href="/showcase">here</a>. 
 </p>

@@ -1,5 +1,5 @@
 ---
-title: "Four Years of Bad Code"
+title: "Years of Writing Bad Code"
 layout: post
 date: 2020-04-31 12:00
 image: /assets/images/blogs/dab.gif

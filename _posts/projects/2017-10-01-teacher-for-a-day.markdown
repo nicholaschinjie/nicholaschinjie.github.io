@@ -23,8 +23,15 @@ externalLink: false
 
 <p align="center">
     <a href="https://github.com/nicholaschinjie/teacher-for-a-day"> 
-        <img src="https://img.shields.io/badge/github-teacherforaday-green.svg?style=for-the-badge&logo=github">
+        <img src="https://img.shields.io/badge/github-teacherforaday-E15967.svg?style=for-the-badge&logo=github">
     </a>
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/contributors-5-green.svg" />
+    <img src="https://img.shields.io/badge/hackathon-Eduhacks%202017-4DA0B2.svg" />
+    <img src="https://img.shields.io/github/languages/top/nicholaschinjie/teacher-for-a-day.svg?colorB=00A9FD"
+        alt="Backend language" />
 </p>
 
 Many people outside of the field of education are unaware or wondering what it is that teachers really do. To give them an idea, we came up with "Teacher for a Day", a desktop game where players can experience a day-in-the-life of a high school teacher. We begin with lesson planning before moving into teaching, student management, and ultimately evaluating your teaching success.
@@ -33,10 +40,7 @@ The planning phase of the game will open up to a template of a day plan containi
 
 <br>
 <p align="center">
-    <video width="100%" controls>
-    <source src="/assets/images/projects/tfad.mov" type="video/mp4">
-    Your browser does not support the video tag.
-    </video>
+    <img src="/assets/images/projects/tfad.gif" width="100%" />
 </p>
 
 <p align="center">

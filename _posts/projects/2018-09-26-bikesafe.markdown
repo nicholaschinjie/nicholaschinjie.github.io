@@ -6,11 +6,12 @@ tag:
 - hackathon
 - javascript 
 - python 
+- html
 image: /assets/images/projects/bikesafe.png
 headerImage: false
 star: true
 projects: true
-featured-projects: false # feature on home page
+featured-projects: true # feature on home page
 description: "<i> bikesafe </i> - using Vancouver's traffic collision history to provide cyclists safer bike routes"
 author: nicholaschin
 category: project
@@ -18,14 +19,41 @@ externalLink: false
 ---
 
 <p align="center">
-    <img src="/assets/images/projects/bikesafe.png" width="80%" />
+    <img src="/assets/images/projects/bikesafe.png" width="100%" />
 </p>
-
 
 <p align="center">
     <a href="https://github.com/Stoked-Theorem/VANquish-Bike-Accidents"> 
-        <img src="https://img.shields.io/badge/github-bikesafe-green.svg?style=for-the-badge&logo=github">
+        <img src="https://img.shields.io/badge/github-bikesafe-E15967.svg?style=for-the-badge&logo=github">
     </a>
 </p>
+<p align="center">
+    <img src="https://img.shields.io/github/contributors/Stoked-Theorem/VANquish-Bike-Accidents.svg" />
+    <img src="https://img.shields.io/badge/hackathon-VANquish%20Collisions%202018-4DA0B2.svg" />
+    <img src="https://img.shields.io/github/languages/top/Stoked-Theorem/nwhacks2020.svg?colorB=00A9FD"
+        alt="Backend language" />
+    <img src="https://img.shields.io/github/languages/top/Stoked-Theorem/VANquish-Bike-Accidents.svg?colorB=FDB000"
+        alt="Frontend language" />
+</p>
 
-# Bike Safe 
+
+I joined a group of five other students at UBC over a weekend of hacking at <a href="https://vancouver.ca/streets-transportation/vanquish-collisions-hackathon.aspx">VANquish Collisions Hackathon</a> hosted by the City of Vancouver. With the goal of reducing traffic collisions in high density areas, our solution was to find ways to incentivise different modes of transportation beyond cars. The end product was <a href="https://github.com/Stoked-Theorem/VANquish-Bike-Accidents"> BikeSafe</a>; a web application that finds bicycle tracks and maps rides for cyclists. We believed that an influx of bikers would often face challenges of finding safe routes. Contrary to <a href="https://developers.google.com/maps/documentation/gaming/directions"> Google Maps'</a> pathfinding algorithm, BikeSafe returns cyclists both the safest and practically shortest route to their destination. During my time with the team, I helped brainstorm and later develop features such as: 
+
+* **making smarter, more specific recomendations** - using <a href="https://vancouver.ca/streets-transportation/collision-injury-data.aspx">Vancouver's 1996-2016 collision</a> data provided, our route calculation algorithm weighs safety over shortest path via avoiding high collision zones and dangerous intersections. We classified collisions by factors such as **vehicle categories** (i.e motorists, pedestrains) and **collision severity** (i.e fatal, non-fatal) to inform decision making as well. 
+
+<p align="center">
+    <img src="/assets/images/projects/bikesafe_raw_data.png" width="100%" />
+</p>
+
+* **choosing the most promising path** - route calculation was still computed by Google Maps (mainly because I wanted the sponsor stickers, but I guess their tech is pretty cool too).
+
+* **helping users make informed decisions** - the **location of collision** and **severity** (D = DEATH, S = SEVERE, M = MINOR) is displayed on the map interface itself, so that users can confirm the recommended route, and adjust routes if they so choose.
+
+<p align="center">
+    <img src="/assets/images/projects/bikesafe_polylines.png" width="100%" />
+</p>
+* **robust <a href="https://developers.google.com/maps/documentation/javascript/examples/polyline-simple">polyline</a> rendering** - it took so long, just to display a lines from point A to point B. AHHHH.
+
+## Final Design 
+As it is, BikeSafe is a prototype to inform cyclists of short and safe paths using past traffic collision data. Given we had limited time to build this, route calculation is only Metro Vancouver-specific, and not subject to changes in traffic patterns over time. I only realized this later, but we'd failed to notice certain disparities when recommending paths for cyclists as opposed to cars. For instance, steeper inclines and harsher road conditions may fit people's confidence (and stamina) as a cyclist differently. Not all cars are created equal, but when it comes to cyclists, opting to take a possibly longer and steeper route separated from traffic could be far more dangerous. Perhaps for another time, I'm going to catch up sleep. 
+

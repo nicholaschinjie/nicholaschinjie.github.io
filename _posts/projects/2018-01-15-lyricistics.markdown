@@ -18,12 +18,18 @@ externalLink: false
 
 <p align="center">
     <a href="https://github.com/nicholaschinjie/song-lyric-similaritizer"> 
-        <img src="https://img.shields.io/badge/github-lyricistics-green.svg?style=for-the-badge&logo=github">
+        <img src="https://img.shields.io/badge/github-lyricistics-E15967.svg?style=for-the-badge&logo=github">
     </a>
 </p>
+<p align="center">
+    <img src="https://img.shields.io/badge/contributors-5-green.svg" />
+    <img src="https://img.shields.io/badge/hackathon-nwHacks%202018-4DA0B2.svg" />
+    <img src="https://img.shields.io/github/languages/top/azh/song-lyric-similaritizer.svg?colorB=00A9FD"
+        alt="Backend language" />
+</p>
 
-# Lyricistics 
-Lyricistics is an AI trained to make **lyrically-similar** song recommendations, contrary to the genre-based recommendations most music streaming services offer. Built by a team of 3 within the 24 hours of <a href="https://nwhacks2018.devpost.com/"> nwHacks 2018</a>, this post serves to illustrates our experimentation with machine learning techniques to analyse and classify the content and meaning behind songs' lyrics make 'appropriate' music recommendations. The idea in practice is rather simple: when listening to a song you enjoy for its lyrical sentiment, the AI's search will (hopefully) yield a list of songs sharing a similar style of lyrics to it. 
+
+<a href="https://github.com/nicholaschinjie/song-lyric-similaritizer"> Lyricistics</a> is an neural network trained to make **lyrically-similar** song recommendations, contrary to the genre-based recommendations most music streaming services offer. Built by a team of 3 within the 24 hours of <a href="https://nwhacks2018.devpost.com/"> nwHacks 2018</a>, this post serves to illustrates our experimentation with machine learning techniques to analyse and classify the content and meaning behind songs' lyrics make 'appropriate' music recommendations. The idea in practice is rather simple: when listening to a song you enjoy for its lyrical sentiment, the network's search will (hopefully) yield a list of songs sharing a similar style of lyrics to it. 
 
 Here's a sneak peak of the end result: 
 <p align="center">

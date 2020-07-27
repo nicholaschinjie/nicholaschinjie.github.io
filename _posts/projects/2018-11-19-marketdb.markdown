@@ -16,17 +16,60 @@ externalLink: false
 ---
 
 <p align="center">
-    <img src="/assets/images/projects/dbmart-preview.png" width="80%" />
+    <img src="/assets/images/projects/dbmart-preview.png" width="100%" />
 </p>
 
 <p align="center">
     <a href="https://github.com/group46/dbMart"> 
-        <img src="https://img.shields.io/badge/github-%2FdbMart-green.svg?style=for-the-badge&logo=github">
+        <img src="https://img.shields.io/badge/github-dbMart-E15967.svg?style=for-the-badge&logo=github">
     </a>
 </p>
 
-Note: this was before I'd heard about APIs 
+<p align="center">
+    <img src="https://img.shields.io/github/contributors/group46/dbMart.svg" />
+    <img src="https://img.shields.io/badge/coursework-cpsc304%20-4DA0B2.svg" /> 
+    <img src="https://img.shields.io/github/languages/top/group46/dbMart.svg?colorB=00A9FD"
+        alt="Server language" />
+</p>
 
-- blog idea: callback hell 
+<a href="https://github.com/group46/dbMart">DBMart</a> is a web application for users to buy and sell products. The current list of functionalities allows users to create an account, add product posts, edit and delete posts, search for products in their price range, and see previous comments. 
 
-https://github.com/group46/dbMart
+This was my first time working with <a href="https://www.mysql.com/">MySQL</a> relational databases, and normalized our tables to <a href="https://www.geeksforgeeks.org/boyce-codd-normal-form-bcnf/">BCNF</a>. This project was conceived for a group project as part of CPSC 304 coursework. Our backend framework was powered by Node.JS and Express.JS.  It was also great working with Git for version control and branching. Below is a preview of our final demo and supported queries.
+
+**Disclaimer**: Our Front-End Developer was abducted by aliens.
+
+<p align="center">
+    <img src="/assets/images/projects/304_add_post.png" width="100%" />
+</p>
+<p align="center">
+    <img src="/assets/images/projects/304_login.png" width="100%" />
+</p>
+<p align="center">
+    <img src="/assets/images/projects/304_choose_price.png" width="100%" />
+</p>
+<p align="center">
+    <i style="font-size:90%;">A neat query allowing users to search for products by price range
+    </i>
+</p>
+<br>
+
+
+## Supported Queries
+
+|  **Category** | **General idea** | **Details** |
+|  ------ | ------ | ------ |
+|  2-INSERT<br/>(REQ 1) | A. Add Post (N) | A user is able to add a post with a product he wants to sell. The postid is auto-generated user must type in a valid username/password combination.. |
+|   | B. Add User (A) | A user creates an account. Insert new user info in to User table |
+|   | F. Add Tag (N) | A user adds a tag to their product post. (“tag” field when adding post) |
+|  3-DELETE<br/>(REQ 1) | A. Delete Post (N) | With the right username/password combination, you can delete a post. |
+|  4-UPDATE<br/>(REQ 1) | A. Edit Post (N) | User can make changes to a post. (change description, product name) |
+|   | B. Update account info (A) | User can update their account info (Not user_ID though) |
+|  5-JOIN(3)(REQ 1) | A. linking users w/ advertisements they may be interested in. (G) | Query which user is interested in which advertisement + tag. JOINs advertisement, user, ad_has_tag, and user_interested(view).. |
+|  6-JOIN(2)<br/>(REQ 1) | B. Comment with User first name, last name (M) | Displays user name with comment. JOIN user w/ comment_authors. |
+|  7-GROUPBY<br/>(REQ 1) | A. Show product_post information (number of likes each post has). | This is the “main_table” that you see on the main page. (groupby, join(3), view, union). One column shows number of likes. |
+|  8-GEN<br/>(SELECT) | User Verification in delete post (G) | Select query that searches for the user inputted uid and password values. Used in post deletion, where if the result of this query is empty, post cannot be deleted. |
+|  9-GEN<br/>(SELECT) | Current_posts in price range (G) | Select query that searches for current_posts that are within a user specified price range. |
+|  10-GEN | Select from the extra SQLs in Insert (B and F) |  |
+|  11-VIEW<br/>(REQ 1) | A. Current product post (G) | Create view current_posts where posts are not marked as sold. (used to SELECT posts in certain price point). |
+|   | B. User_interested (G) | Create view that joins user, post_has_tag, and user_likes. It shows which tags a user is interested in based on their likes history. Used for the Join(3) query (linking users with advertisements). |
+|  12-<br/>DIVISION | A.Get post that all users liked |  |
