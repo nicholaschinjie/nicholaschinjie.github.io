@@ -75,3 +75,14 @@ Players will act as the teacher and exchange dialogues with NPC students in less
 As a lesson progresses, the clock will tick. At a certain time in your day plan, a mini-game will be activated (photocopying worksheets, physical exercise, etc.) Successfully completing mini-games can increase your success rate bar, but will decrease your energy level. Energy levels are replenished via positive interactions with students and when you drink coffee or eat during snack time/lunch time in your schedule.
 
 We came in Second Place at Eduhacks after demoing this game as our prototype! In a full game, we envision a visual, novel-style game in which the player would develop their relationship with their students each day. Injecting a sense of continuity will hopefully intensify player investment. 
+
+<br>
+
+<p align="center">
+    <img src="/assets/images/projects/tfad_prez.jpg" width="100%" />
+</p>
+
+<p align="center">
+    <i style="font-size:90%;">Our final presentation.
+    </i>
+</p>
