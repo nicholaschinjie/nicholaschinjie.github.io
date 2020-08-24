@@ -16,7 +16,7 @@ category: experience
 experience: true
 subtitle: Revenue Monster 
 author: nicholaschin
-description: May 2020 - Present  |  Remote
+description: May 2020 - August 2020  |  Remote
 --- 
 
 ## Summary: 

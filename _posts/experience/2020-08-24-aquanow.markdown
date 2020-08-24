@@ -1,0 +1,22 @@
+---
+title: "Software Developer Intern" 
+layout: post 
+date: 2020-08-24 10:50
+image: /assets/images/org/aquanow.png
+headerImage: true
+tag: 
+    - internship 
+    - javascript
+    - tbd
+star: true
+blog: true
+hidden: true
+category: experience 
+experience: true
+subtitle: Aquanow
+author: nicholaschin
+description: September 2020 - Present  |  Vancouver B.C
+--- 
+
+## Summary: 
+
