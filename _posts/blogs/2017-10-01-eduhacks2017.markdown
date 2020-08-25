@@ -17,24 +17,30 @@ author: nicholaschin
 externalLink: false
 ---
 
-rabbit hole 
-noun 
-*Used to refer to a bizarre, confusing, or nonsensical situation or environment, typically one from which it is difficult to extricate oneself.*
 
-I've never been accused of substance abuse. Unless you'd consider 60mg worth of caffeine doused in your bloodstream a form of overdose.
+<p align="center">
+<b style="font-size:150%;"> rab·bit hole </b>
+<br>
+<i>noun</i>
+<p align="center" style="font-size:90%;"> Used to refer to a bizarre, confusing, or nonsensical situation or environment, typically one from which it is difficult to extricate oneself.</p>
+</p>
+<br>
 
-A feeling of such high is difficult to come by. Yet is one that perfectly describes my experience at Eduhacks 2017; the first of many 24-hour hackathons I would attend during my time as an undegraduate at the University of British Columbia. In retrospect, it's difficult to justify why I'd choose to spend my weekends holed up indoors, despite being situated in the heart of bright and beautiful Vancouver. Nevertheless, this event being my first, meant I certainly wasn't expecting to win anything. I suppose what ultimately convinced me was the prospect of gaining experience outside the classroom. Plus, I really wanted to add to my laptop sticker collection.
+I've never been accused of substance abuse. Unless you'd consider over a 100mg worth of caffeine doused in your bloodstream a form of overdose.
 
-Due to a mixture of ineffective communication and bad 'economic' planning, however, the team-of-five I assembled beforehand never showed up. This left me and one other friend (God bless her for her commitment) wrought with uncertainty. *How do we meet new people? Why would anyone accept us into their team? Even if they did, how would I keep up?* No longer protected by the in-group homogeneity bubble, being surrounded by far more experienced hackers left me feeling more vulnerable to imposter syndrome than ever. Metaphorically, in this instance the ground beneath my feet began to sink; thus began my descent down the rabbit hole.
+A feeling of such high is difficult to come by. Yet is one that perfectly describes my experience at Eduhacks 2017; the first of many 24-hour hackathons I would attend during my time as an undergraduate at the University of British Columbia. In retrospect, it's difficult to justify why I'd choose to spend my weekends holed up indoors, despite being situated in the heart of bright and beautiful British Columbia. Nevertheless, this event being my first, meant I certainly wasn't expecting to win anything. I suppose what ultimately convinced me was the prospect of gaining experience outside the classroom. Plus, I really wanted to add to my laptop sticker collection.
 
-## Team building and Death Squads
+Due to a mixture of ineffective communication and bad 'economic' planning, however, the team-of-five I assembled beforehand never showed up. This left me and one other friend (God bless her for her commitment) wrought with uncertainty. *How do we meet new people? I can't code JavaScript! Why would anyone accept us into their team?* No longer protected by the in-group homogeneity bubble, being surrounded by far more experienced hackers left me feeling more vulnerable to imposter syndrome than ever. Metaphorically, in this instance the ground beneath my feet began to sink; thus began my descent down the rabbit hole.
 
-The first hour of the plunge down is typically defined by a wealth of inexperience. In my case, that inexperience made perfect partners with my underqualifications.  At the time, one of the more popular coping mechanism circulated as advice to me was to "fake it till you make it". I did entertain the thought - that perhaps explicitly overstating one's achievements could yield acceptance. But it was a risk I was not willing to take. My friend and I having no background in Computer Science, couldn't fake knowing anything else besides Racket (the only language we knew at the time) and writing Java *for* loops.
+## Team Building and Death Squads
+
+The first hour of the plunge down is typically defined by a wealth of inexperience. In my case, that inexperience made perfect partners with my underqualifications. At the time, the go-to coping mechanism was to "fake it till you make it". I did entertain the thought, but it was a risk I was not willing to take.
 
 What I wish I knew at the time was that the hacker community, no matter how insufferable proponents of it may be, is also comprised of some of the most talented and friendly people I've had the pleasure of working with. It just so happened, on that fateful day, I was introduced to three of them. All of them had diverse backgrounds - an educator, an artist, a developer - and were armed with a melting pot of ideas. Plus, it quickly became evident they had the skills to back it up. 
 
-That was the first important thing I learnt that day. To venture out of one's comfort zone at a hackathon is to continuously try to meet new people and work together. The process of working with strangers instead of friends may be initially daunting, especially when lacking confidence. But it presents a rare opportunity to participate in a dialougue where initially alien concepts, algorithms, tools etc. are put on your radar. And the only way to overcome the information overload that follows, is to find out more in your own time - one step at a time.
+That was the first important thing I learnt that day. To venture out of one's comfort zone at a hackathon is to continuously try to meet new people and work together. The process of working with strangers instead of friends may be initially daunting, especially when lacking confidence. But it presents a rare opportunity to participate in a dialougue where initially alien concepts, algorithms, tools etc. are put on your radar. And the only way to overcome the information overload that follows, is to find out more - one step at a time.
 
+## To Hack A Product
 
 <!-- 
 

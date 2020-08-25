@@ -52,7 +52,7 @@ I joined a group of five other students at UBC over a weekend of hacking at <a h
 <p align="center">
     <img src="/assets/images/projects/bikesafe_polylines.png" width="100%" />
 </p>
-* **robust <a href="https://developers.google.com/maps/documentation/javascript/examples/polyline-simple">polyline</a> rendering** - it took so long, just to display a lines from point A to point B. AHHHH.
+* **robust <a href="https://developers.google.com/maps/documentation/javascript/examples/polyline-simple">polyline</a> rendering** - it took so long, just to display dynamic lines from point A to point B. AHHHH.
 
 ## Final Design 
 As it is, BikeSafe is a prototype to inform cyclists of short and safe paths using past traffic collision data. Given we had limited time to build this, route calculation is only Metro Vancouver-specific, and not subject to changes in traffic patterns over time. I only realized this later, but we'd failed to notice certain disparities when recommending paths for cyclists as opposed to cars. For instance, steeper inclines and harsher road conditions may fit people's confidence (and stamina) as a cyclist differently. Not all cars are created equal, but when it comes to cyclists, opting to take a possibly longer and steeper route separated from traffic could be far more dangerous. Perhaps for another time, I'm going to catch up sleep. 
