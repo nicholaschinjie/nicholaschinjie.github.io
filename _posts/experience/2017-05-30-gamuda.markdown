@@ -17,5 +17,7 @@ author: nicholaschin
 description: May 2017 - July 2017  |  Malaysia, Kuala Lumpur
 --- 
 
-## Summary: 
+### About Gamuda
+<a href="https://gamuda.com.my/"> Gamuda Berhad</a> is an engineering, property and infrastructure company based in Malaysia. It is one of the largest Malaysian infrastructure companies, with a proven track record of delivering innovative breakthrough solutions worldwide.
 
+ 

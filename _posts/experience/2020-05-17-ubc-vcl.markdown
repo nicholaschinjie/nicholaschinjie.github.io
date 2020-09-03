@@ -18,7 +18,10 @@ author: nicholaschin
 description: September 2018 - Present  |  Vancouver B.C
 --- 
 
-## Summary: 
+Dog ate my write-up. It'll be here soon.
 
 <!-- Flowshow -->
 <!-- Correlation -->
+
+### About the UBC Visual Cognition Lab
+The UBC Visual Cognition Lab is a vision science lab in the Psychology Department of the University of British Columbia. <a href="https://viscoglab.psych.ubc.ca/person/ronald-rensink/">Dr. Ronald A. Rensink</a> is the principal investigator. The VCL primarily investigates visual intelligence – the way in which the human visual system uses the light entering the eyes to create a variety of perceptual experiences - to help with the design of effective visual displays. There are currently five active research <a href="https://viscoglab.psych.ubc.ca/research/">projects</a>, each piloted by teams of undergraduate, graduate and PhD students from the university. 

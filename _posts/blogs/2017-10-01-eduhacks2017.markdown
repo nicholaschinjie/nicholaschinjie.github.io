@@ -1,12 +1,12 @@
 ---
-title: "Eduhacks 2017: Down the Rabbit Hole"
+title: "Eduhacks 2017: Down the Hacker Rabbit Hole"
 layout: post
 date: 2017-10-05 22:10
 tag:
 - hackathon
 - dev-diary
 image: /assets/images/blogs/secondplace.jpg
-headerImage: true
+# headerImage: true
 featuredImage: true
 blog: true 
 blog-highlights: true
@@ -26,21 +26,24 @@ externalLink: false
 </p>
 <br>
 
-I've never been accused of substance abuse. Unless you'd consider over a 100mg worth of caffeine doused in your bloodstream a form of overdose.
+I've never been accused of substance abuse. Unless you'd consider hundred milligrams worth of caffeine doused in one's bloodstream a form of overdose.
 
-A feeling of such high is difficult to come by. Yet is one that perfectly describes my experience at Eduhacks 2017; the first of many 24-hour hackathons I would attend during my time as an undergraduate at the University of British Columbia. In retrospect, it's difficult to justify why I'd choose to spend my weekends holed up indoors, despite being situated in the heart of bright and beautiful British Columbia. Nevertheless, this event being my first, meant I certainly wasn't expecting to win anything. I suppose what ultimately convinced me was the prospect of gaining experience outside the classroom. Plus, I really wanted to add to my laptop sticker collection.
+A feeling of such high is difficult to come by. Yet is one that perfectly describes my experience at Eduhacks 2017; the first of many 24-hour hackathons I would attend during my time as an undergraduate at the University of British Columbia. In retrospect, it's difficult to justify why I'd choose to spend my weekends holed up indoors, despite being situated in the heart of bright and beautiful British Columbia. This event being my first, I certainly wasn't expecting to win anything. What ultimately convinced me was the prospect of gaining experience outside the classroom. Plus, I really wanted to add to my laptop sticker collection.
 
-Due to a mixture of ineffective communication and bad 'economic' planning, however, the team-of-five I assembled beforehand never showed up. This left me and one other friend (God bless her for her commitment) wrought with uncertainty. *How do we meet new people? I can't code JavaScript! Why would anyone accept us into their team?* No longer protected by the in-group homogeneity bubble, being surrounded by far more experienced hackers left me feeling more vulnerable to imposter syndrome than ever. Metaphorically, in this instance the ground beneath my feet began to sink; thus began my descent down the rabbit hole.
+However, due to a mixture of ineffective communication and bad 'economic' planning, the team-of-five I assembled beforehand never showed up. No longer protected by the in-group homogeneity bubble, I was wrought with uncertainty. Being surrounded by far more experienced hackers in filled teams and ready-made ideas left me more vulnerable to imposter syndrome than ever. Metaphorically, in this instance the ground beneath my feet began to sink, and **there began my descent down the rabbit hole**.
 
-## Team Building and Death Squads
+### Team Building Without Autofill Parity
 
-The first hour of the plunge down is typically defined by a wealth of inexperience. In my case, that inexperience made perfect partners with my underqualifications. At the time, the go-to coping mechanism was to "fake it till you make it". I did entertain the thought, but it was a risk I was not willing to take.
+The first hour of the plunge down is typically defined by inexperience. In my case, that inexperience perfectly partnered my underqualifications. I came from a background satiated with individual competition designed to bring the most out of every person. Competing in inter-state badminton competitions made me understand that in some cases you are the better player and in some cases your opponent is just stronger.
 
-What I wish I knew at the time was that the hacker community, no matter how insufferable proponents of it may be, is also comprised of some of the most talented and friendly people I've had the pleasure of working with. It just so happened, on that fateful day, I was introduced to three of them. All of them had diverse backgrounds - an educator, an artist, a developer - and were armed with a melting pot of ideas. Plus, it quickly became evident they had the skills to back it up. 
+What I wish I knew at the time was at a hackathon - **learning** is it's very core activity. Competition will always be binary. But for more than 24 hours, we have the chance to teach others what has been taught to us, and for the more experienced to provide a helping hand to those of us in need of one. Hackathons are breeding grounds for talented people of diverse backgrounds. And even though the process of working with strangers instead of friends may be initially daunting, it presents a rare opportunity. Even if you don't know how to code - you get to participate in a dialougue where initially alien concepts, new programming languages, and courtesy is shared and practiced. For me, the wonders of the development process is exemplified by conversation and honest feedback - by some of the most talented people I've had the pleasure of working with.
 
-That was the first important thing I learnt that day. To venture out of one's comfort zone at a hackathon is to continuously try to meet new people and work together. The process of working with strangers instead of friends may be initially daunting, especially when lacking confidence. But it presents a rare opportunity to participate in a dialougue where initially alien concepts, algorithms, tools etc. are put on your radar. And the only way to overcome the information overload that follows, is to find out more - one step at a time.
+It just so happened, on that fateful day, I was introduced to four of them - an educator, an artist, two developers. Armed with a melting pot of ideas, it was go time. 
 
-## To Hack A Product
+
+### To Hack A Product
+
+Blessed to have an idea. But panic mode - 6 hrs in we still didn't have anything. 
 
 <!-- 
 
@@ -82,3 +85,41 @@ The Constant Learning Cycle of a Web Developer
 
 
 Now the world of industry is a complete different beast, but as long as you approach things with the same growth-mindset and a continuous desire to learn (as described in this blog), you're all good to go.  -->
+
+<p align="center">
+    <img src="/assets/images/blogs/impoverished.png" width="100%" />
+</p>
+
+<p align="center">
+    <i style="font-size:90%;"> Image Quality: Impoverished
+    </i>
+</p>
+
+
+<p align="center">
+    <img src="/assets/images/blogs/twitter.png" width="100%" />
+</p>
+
+<p align="center">
+    <i style="font-size:90%;"> Nope. Still can't believe it
+    </i>
+</p>
+
+
+<p align="center">
+    <img src="/assets/images/blogs/knockout.png" width="30%" />
+</p>
+
+<p align="center">
+    <i style="font-size:90%;"> Guilty as charged
+    </i>
+</p>
+
+<p align="center">
+    <img src="/assets/images/blogs/waitwhat.png" width="100%" />
+</p>
+
+<p align="center">
+    <i style="font-size:90%;"> WHAT???
+    </i>
+</p>

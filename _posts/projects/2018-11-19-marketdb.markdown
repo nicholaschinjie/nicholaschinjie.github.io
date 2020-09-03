@@ -36,7 +36,7 @@ externalLink: false
 
 This was my first time working with <a href="https://www.mysql.com/">MySQL</a> relational databases, and normalized our tables to <a href="https://www.geeksforgeeks.org/boyce-codd-normal-form-bcnf/">BCNF</a>. This project was conceived for a group project as part of CPSC 304 coursework. Our backend framework was powered by Node.JS and Express.JS.  It was also great working with Git for version control and branching. Below is a preview of our final demo and supported queries.
 
-**Disclaimer**: Our Front-End Developer was abducted by aliens.
+**Disclaimer**: Our Front-End Developer was abducted by aliens and it shows.
 
 <p align="center">
     <img src="/assets/images/projects/304_add_post.png" width="100%" />

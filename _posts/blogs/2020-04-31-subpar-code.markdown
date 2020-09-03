@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Years of Writing Bad Code"
 layout: post
 date: 2020-04-31 12:00
@@ -43,4 +43,4 @@ Gallery
 sometimes you gotta check before you start
 but it's not like you're building company, just learn 
 
-- don't even get me started on the hackathon projects (should I include?) -->
+- don't even get me started on the hackathon projects (should I include?) --> -->

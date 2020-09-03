@@ -22,7 +22,9 @@ author: nicholaschin
 description: May 2019 - December 2019  |  Vancouver B.C 
 --- 
 
-## Summary: 
+At my internship with <a target="_blank" href="https://www.hsbc.ca/"> HSBC</a>, I worked primarily on Spring-cloud-based API development using Java microservices. Some of my notable contributions include building software that handled online credit card applications, customer background verification, and implementing OpenID 2.0-based security logic.
+
+Write-up is in my backlog of things to do next - it's item 221 in the queue.
 
 <!-- Intro -->
 
@@ -31,3 +33,6 @@ description: May 2019 - December 2019  |  Vancouver B.C
 <!-- Credit Card Checks -->
 
 <!-- Background Checks  -->
+
+### About HSBC 
+<a href="https://www.hsbc.com/">HSBC</a> is one of the world’s largest banking and financial services organisations. They serve more than 40 million customers through their global businesses: Wealth and Personal Banking, Commercial Banking, and Global Banking and Markets. Their network covers 64 countries and territories in Europe, Asia, the Middle East and Africa, North America and Latin America.

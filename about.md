@@ -6,7 +6,7 @@ layout: page
 
 <hr/>
 <center> 
-        <h2 style="font-weight:400;text-align:center" id="about-me">
+        <h2 style="font-weight:400;text-align:center;font-size:28px" id="about-me">
             <a style="color:black;text-decoration: none;">about me</a>
         </h2>     
 </center>
@@ -25,38 +25,42 @@ Mostly API dev rn, getting into distributed systems and devops.
 At the end of the day, I wanna know how to do it all myself  -->
 
 <!-- <p>I have professional working experience with <b> Java </b> (Spring) and <b> JavaScript</b>, but above all, I'm eager to learn new things.<br/><br/> -->
-  Hi there! My name is <b>Nicholas</b> and I'm a student majoring in Cognitive Systems with a passion for <b>software engineering</b>. <br>
+  Hi there! My name is <b>Nicholas</b> and I am a student majoring in Cognitive Systems at the University of British Columbia with a passion for building and breaking things.<br>
 
-  In my most recent internship at <a target="_blank" href="https://www.hsbc.ca/"> HSBC</a>, I worked primarily on Spring-cloud-based API development using Java microservices. Some of my notable contributions include building software that handled online credit card applications, customer background verification, and implementing OpenID 2.0-based security logic. <br>
+  This north star had me develop a particular appetite for DevOps and backend API development, acquired through multiple software engineering internships at <a target="_blank" href="/aquanow"> Aquanow</a> (where I currently work), <a target="_blank" href="/revenuemonster"> Revenue Monster</a>, and <a target="_blank" href="/hsbc"> HSBC</a>. I've also participated actively as a research assistant at the <a target="_blank" href="/ubc-vcl"> Visual Cognition Lab</a> for the last 2 years, using experimental data to develop better data visualization displays.<br>
 
-  In a continuing effort to develop my abilities, I currently work as a part-time developer under the supervision of <a target="_blank" href="https://www.researchgate.net/profile/Ronald_Rensink="> Dr. Ronald A. Rensink</a> at the <a target="_blank" href="https://viscoglab.psych.ubc.ca/"> Visual Cognition Lab</a>. Here, I'm involved in the development of a novel JavaScript visualization framework that investigates human visual perception for data displays. <br>
+  Outside work and school, I occasionally attend local hackathons and contribute to open source. Doing so allows me to continue experimenting different technologies while learning from awesome developer communities, and allows me to continue building  <a target="_blank" href="/projects"> cool projects</a>. My friends don't necessarily share the same enthusiam however, and only so many make it onto <a target="_blank" href="https://github.com/theblackathena">my Github</a>. I was also a member of <a target="_blank" href="http://www.ubclaunchpad.com">UBC Launch Pad</a>, where we unilaterally launched some <a target="_blank" href="https://github.com/ubclaunchpad"> cooler projects</a>.<br>
 
-  Outside of work and class, I love tinkering with <a target="_blank" href="/projects"> cool projects</a>. I'll admit I have trouble selling some ideas to friends, and only so many make it to <a target="_blank" href="https://github.com/theblackathena">my Github</a>. I'm also a member of <a target="_blank" href="http://www.ubclaunchpad.com">UBC Launch Pad</a>, where we as a student-run engineering club collaboratively make some <a target="_blank" href="https://github.com/ubclaunchpad"> cooler projects</a>.<br>
-
-  While waiting for code to compile, you can find me outside trying to play better football with the lads. I'm a huge nerd when it comes to jazz music and competitive Pokémon games. I also play the piano, and you can find some of my attempting performances <a target="_blank" href="/showcase">here</a>. 
+<br>
+<p align="center">
+    <img src="/assets/images/blogs/dab.gif" width="70%" />
 </p>
+
+<p align="center">
+    <i style="font-size:90%;"> <i>Dab-on-em</i> - a state-of-the-art AI that determines if you are dabbing or not. Imagine the possibilities.
+    </i>
+</p>
+<br>
+
+  While waiting for code to compile, you can find me outside trying to play better football. I'm a huge nerd of jazz music and competitive (mostly Pokémon) games. I also play the piano, and you can find some of my attempting performances <a target="_blank" href="/showcase">here</a>. 
+
 <br class="porygon-line"/>
-<!-- <p align="center">
-	<img class="mini-porygon" src='/assets/images/porygon.png' max-width="10%">
-</p> -->
-<!-- <p align="center">
-<i style ="font-size:90%;">  </i> </p> -->
 <hr/>
 
 
 ##### more about me
-<p style="font-size:90%;">Here's a copy of my most recent (though sometimes outdated) <a target="_blank" href="mailto:nicholaschin20@gmail.com">résumé</a>.</p>
+<p style="font-size:90%;">Here's a copy of my most recent (though sometimes outdated) <a target="_blank" href="/assets/resume.pdf">résumé</a>.</p>
 
 
 ##### getting in touch
-<p style="font-size:90%;">Feel free to reach out to me by <a target="_blank" href="mailto:nicholaschin20@gmail.com">email</a> (nicholaschin20@gmail.com). I'm also active on <a target="_blank" href="https://www.linkedin.com/in/nicholaschinjie/">LinkedIn</a> too! </p> 
+<p style="font-size:90%;">Feel free to reach out to me by <a target="_blank" href="mailto:nicholaschin20@gmail.com">email</a> (nicholaschin20@gmail.com) or <a target="_blank" href="https://www.linkedin.com/in/nicholaschinjie/">LinkedIn</a>!</p> 
 
 ##### what's this?
 <div class="inline-block">
 <img class="mini-porygon" src='/assets/images/porygon.png' max-width="10%">
 </div>
-<p style="font-size:90%;"> This is my favorite Pokémon character, <b>Porygon</b>. It's the first artificial Pokémon made completely out of programming code. It was what put the topic of computer science on my radar at an early age, and was what inspired this website's design.</p>
-
+<p style="font-size:90%;"> This is my favorite Pokémon character, <b>Porygon</b>. It's the first artificial Pokémon to be made completely of source code. It was what put the topic of computer programming on my radar from an early age, and was what inspired this website's color scheme.</p>
+ 
 
 <center>
 <div class="inline-block">

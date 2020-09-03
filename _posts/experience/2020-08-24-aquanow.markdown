@@ -18,5 +18,7 @@ author: nicholaschin
 description: September 2020 - Present  |  Vancouver B.C
 --- 
 
-## Summary: 
+Currently in progress :) 
 
+### About Aquanow 
+<a href="https://aquanow.io/">Aquanow</a> offers a feature-rich electronic trading experience that is designed for principal trading, and integrations into products and financial systems. Their suite of algorithms allow customers to access deeper liquidity, better market pricing, and streamlined business processes. They are currently headquartered in Vancouver, British Columbia.

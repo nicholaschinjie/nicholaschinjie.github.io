@@ -12,7 +12,7 @@ headerImage: false
 star: true
 projects: true
 featured-projects: true # feature on home page
-description: "<i> bikesafe </i> - using Vancouver's traffic collision history to provide cyclists safer bike routes"
+description: "<i> bikesafe </i> - using Vancouver's traffic collision history to recommend safer bike routes"
 author: nicholaschin
 category: project
 externalLink: false
@@ -45,7 +45,7 @@ I joined a group of five other students at UBC over a weekend of hacking at <a h
     <img src="/assets/images/projects/bikesafe_raw_data.png" width="100%" />
 </p>
 
-* **choosing the most promising path** - route calculation was still computed by Google Maps (mainly because I wanted the sponsor stickers, but I guess their tech is pretty cool too).
+* **choosing the most promising path** - route calculation was still computed by Google Maps (mainly because I wanted the sponsor stickers, but I guess their tech is pretty alright too).
 
 * **helping users make informed decisions** - the **location of collision** and **severity** (D = DEATH, S = SEVERE, M = MINOR) is displayed on the map interface itself, so that users can confirm the recommended route, and adjust routes if they so choose.
 
