@@ -17,7 +17,7 @@ blog: true
 hidden: true
 category: experience 
 experience: true
-subtitle: HSBC
+subtitle: 'Experience: Software Developer Intern at HSBC'
 author: nicholaschin
 description: May 2019 - December 2019  |  Vancouver B.C 
 --- 
@@ -33,6 +33,9 @@ Write-up is in my backlog of things to do next - it's item 221 in the queue.
 <!-- Credit Card Checks -->
 
 <!-- Background Checks  -->
+
+<hr/>
+
 
 ### About HSBC 
 <a href="https://www.hsbc.com/">HSBC</a> is one of the world’s largest banking and financial services organisations. They serve more than 40 million customers through their global businesses: Wealth and Personal Banking, Commercial Banking, and Global Banking and Markets. Their network covers 64 countries and territories in Europe, Asia, the Middle East and Africa, North America and Latin America.

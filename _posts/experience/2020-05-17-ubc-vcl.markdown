@@ -6,22 +6,71 @@ image: /assets/images/org/vcl.png
 headerImage: true
 tag:
     - research
-    - data-viz
-    - psychophysics
-    - javascript
+    - nodejs
+    - c++
+    - python
     
 star: true
 category: experience 
 experience: true
-subtitle: UBC Visual Cognition Lab
+subtitle: 'Experience: Research Assistant (Part-Time) at UBC Visual Cognition Lab'
 author: nicholaschin
 description: September 2018 - Present  |  Vancouver B.C
 --- 
 
-Dog ate my write-up. It'll be here soon.
+From September 2018 to May 2020 I worked sporadically as a research assistant for the Visual Cognition Lab, <a href="https://viscoglab.psych.ubc.ca/">a vision science lab at the University of British Columbia</a>. To investigate visual intelligence, the lab leverages psychophysics methods like the <a href="https://en.wikipedia.org/wiki/Weber%E2%80%93Fechner_law">Weber-Fechner</a> and <a href="https://en.wikipedia.org/wiki/Stevens%27s_power_law"> Stevens's Power law</a> to measure the relationship between observer perception and physical visual stimuli. The hope is that experimental results will help with the design of more effecitve visual displays and visualization techniques. During my time with the team I used technologies like <a href="https://nodejs.org/en/">Node.js</a>, C++ and Python across a variety of tasks and projects. 
 
-<!-- Flowshow -->
-<!-- Correlation -->
+## Project Flowshow
+
+<p align="center">
+    <img src="/assets/images/blogs/flowshow.png" width="100%" />
+</p>
+
+<p align="left">
+    <i style="font-size:90%;">Screenshot of the virtual optic flowfield (snowfield-like dots that fill the screen). In experiments, the flowfield is superimposed onto a driving simulation that fills the observer's entire peripheral vision. 
+    </i>
+</p>
+
+During my first year with the lab, I worked mainly on Flowshow, a decade-long project (in its twilight year) investigating the direct effects of flowfields on an observer's perception of speed. In each experiment, participants are sat before a driving simulator while tasked with a series of speed estimation and counting tasks. I also served as a member of the lab's tech team across a number of projects. My contributions include: 
+
+* **Improving visual obstacle detection and introduced parameter logging to the flowfield driving simulator.** The driving simulator, created by a VCL alumini Lewis Johnson, was programmed in C++ in which the introduction of logging helped the team fix bugs more efficiently. 
+* Data crunching and analysis of participants' training and performance data between 2008-2018, using Python for automation and countless Excel spreadsheets. Would not do again. 
+* Helped with development of the lab's <a href="https://viscoglab.psych.ubc.ca/">website</a> using HTML/CSS/JavaScript. 
+* Hosted a series of bi-weekly <a href="https://jupyter.org/">Jupyter</a> workshops for lab members.
+
+## Visual Perception of Correlation
+
+<p align="center">
+    <img src="/assets/images/blogs/vcl-webapp.png" width="100%" />
+</p>
+
+<p align="left">
+    <i style="font-size:90%;"> Menu page of VCLWebFramework, an active open-source visualization tool we built, designed for anyone to easily power their own correlation-related experiments in a web browser.
+    </i>
+</p>
+
+From January to May 2020, I moved to the lab's Correlation team in part to produce my final thesis on the nature of correlation perception. The onous was on me to take the wealth of knowledge I had picked up over the year and lead my own investigation on the **graphical representations of datasets**. In particular, my study aimed at studying how size of dots on a <a href="https://en.wikipedia.org/wiki/Scatter_plot">scatterplot</a> affects an observer's perception of correlation. I developed my own experimental procedures using an in-house open source visualization tool - <i><a href="https://ubc-vcl.github.io/VCLWebFramework/">VCLWebFramework</a></i> - a web application I helped develop alongside other lab members using Node.js, <a href="https://d3js.org/">D3.js</a>, and <a href="https://www.jspsych.org/">jsPsych</a>. The process of completing research and submitting my thesis involved: 
+
+* Designing a series of experimental conditions to explore dot size effects in single-population scatterplots. 
+* Realizing each size condition within the <i>VCLWebFramework</i>; **developing unique <a href="https://www.jspsych.org/overview/timeline/">timelines</a> (series of trials) and features** across each condition <a href="">(blog post)</a>.
+* Parsing and analyzing the 40 sets of participant data collected.
+* Establishing a peer review process to onboard and train new contributors on an ongoing basis.
+
+<p align="center">
+    <img src="/assets/images/blogs/vcl-jnd.gif" width="100%" />
+</p>
+
+<p align="left">
+    <i style="font-size:90%;"> An example of a JND task; a method we use to access participants' precision of linear correlation between two graphs.
+    </i>
+</p>
+
+
+Overall, the process involved a nice blend of involving different technologies to conduct behavioral research: from data collection to analysis. If this is something that interests you, see my blog post for a <a href="">brief writeup</a> on why and how we built the VCLWebFramework!
+
+
+<hr/>
+
 
 ### About the UBC Visual Cognition Lab
 The UBC Visual Cognition Lab is a vision science lab in the Psychology Department of the University of British Columbia. <a href="https://viscoglab.psych.ubc.ca/person/ronald-rensink/">Dr. Ronald A. Rensink</a> is the principal investigator. The VCL primarily investigates visual intelligence – the way in which the human visual system uses the light entering the eyes to create a variety of perceptual experiences - to help with the design of effective visual displays. There are currently five active research <a href="https://viscoglab.psych.ubc.ca/research/">projects</a>, each piloted by teams of undergraduate, graduate and PhD students from the university. 

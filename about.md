@@ -27,20 +27,20 @@ At the end of the day, I wanna know how to do it all myself  -->
 <!-- <p>I have professional working experience with <b> Java </b> (Spring) and <b> JavaScript</b>, but above all, I'm eager to learn new things.<br/><br/> -->
   Hi there! My name is <b>Nicholas</b> and I am a student majoring in Cognitive Systems at the University of British Columbia with a passion for building and breaking things.<br>
 
-  This north star had me develop a particular appetite for DevOps and backend API development, acquired through multiple software engineering internships at <a target="_blank" href="/aquanow"> Aquanow</a> (where I currently work), <a target="_blank" href="/revenuemonster"> Revenue Monster</a>, and <a target="_blank" href="/hsbc"> HSBC</a>. I've also participated actively as a research assistant at the <a target="_blank" href="/ubc-vcl"> Visual Cognition Lab</a> for the last 2 years, using experimental data to develop better data visualization displays.<br>
+  This north star had me develop a particular appetite for DevOps and backend API development, acquired through multiple software engineering internships at <a target="_blank" href="/aquanow"> Aquanow</a> (where I currently work), <a target="_blank" href="/revenuemonster"> Revenue Monster</a>, and <a target="_blank" href="/hsbc"> HSBC</a>. I've also participated actively as a research assistant at the <a target="_blank" href="/ubc-vcl"> Visual Cognition Lab</a> for the last two years, using experimental data to develop better data visualization displays.<br>
 
-  Outside work and school, I occasionally attend local hackathons and contribute to open source. Doing so allows me to continue experimenting different technologies while learning from awesome developer communities, and allows me to continue building  <a target="_blank" href="/projects"> cool projects</a>. My friends don't necessarily share the same enthusiam however, and only so many make it onto <a target="_blank" href="https://github.com/theblackathena">my Github</a>. I was also a member of <a target="_blank" href="http://www.ubclaunchpad.com">UBC Launch Pad</a>, where we unilaterally launched some <a target="_blank" href="https://github.com/ubclaunchpad"> cooler projects</a>.<br>
+  Outside work and school, I occasionally attend local hackathons and contribute to open source. Doing so allows me to continue experimenting different technologies while learning from awesome developer communities, which allows me to continue building  <a target="_blank" href="/projects"> cool projects</a>. My friends don't necessarily share the same enthusiam however, and only so many make it onto <a target="_blank" href="https://github.com/theblackathena">my Github</a>. I was also a member of <a target="_blank" href="http://www.ubclaunchpad.com">UBC Launch Pad</a>, where we unilaterally launched some <a target="_blank" href="https://github.com/ubclaunchpad"> cooler projects</a>.<br>
 
-<br>
+<br class="porygon-line"/>
 <p align="center">
     <img src="/assets/images/blogs/dab.gif" width="70%" />
 </p>
 
-<p align="center">
-    <i style="font-size:90%;"> <i>Dab-on-em</i> - a state-of-the-art AI that determines if you are dabbing or not. Imagine the possibilities.
+<p align="left">
+    <i style="font-size:90%;"> state-of-the-art AI that determines if you are dabbing or not. Imagine the possibilities.
     </i>
 </p>
-<br>
+<br class="porygon-line"/>
 
   While waiting for code to compile, you can find me outside trying to play better football. I'm a huge nerd of jazz music and competitive (mostly Pokémon) games. I also play the piano, and you can find some of my attempting performances <a target="_blank" href="/showcase">here</a>. 
 
