@@ -24,9 +24,18 @@ description: May 2019 - December 2019  |  Vancouver B.C
 
 From May to December 2019, I worked as a Full Stack Developer intern at <a target="_blank" href="https://www.hsbc.ca/"> HSBC</a> in the Retail Banking and Wealth Management team under a group called Originations, which serves to develop and enhance the online commercial banking experience for new and existing customers. Originations is divided into two teams - one for New-To-Bank (NTB) and the other for Existing-To-Bank (ETB) customers experience.
 
-Assigned to the NTB team, I worked primarily on Spring-cloud-based API development using Java microservices. Some of my notable contributions include building user journeys that handled online credit card applications, customer background verification, and working together with <a href="https://securekey.com/">SecureKey Technologies</a> to pilot an open banking initiative within the bank.
+Assigned to the NTB team, I worked primarily on developing and deploying our suite of account opening services across Canada, Mexico, and several other regions. Some of my notable contributions include building user journeys that handled online credit card applications, customer background verification, and working together with <a href="https://securekey.com/">SecureKey Technologies</a> to pilot an open banking initiative within the bank.
 
 ## Pushing for an Open Banking Experience
+
+<p align="center">
+    <img src="/assets/images/experience/exp-vme.png" width="100%" />
+</p>
+
+<p align="left">
+    <i style="font-size:90%;"> Menu page of VCLWebFramework, an active open-source visualization tool we built, designed for anyone to easily power their own correlation-related experiments in a web browser.
+    </i>
+</p>
 
 My first four months at HSBC was defined by designing and building a proof-of-concept API (application programming interface) service to demonstrate HSBC systems' technical compatibility with SecureKey's own API services, as well as its feasibility from a business and compliance perspective. <i>I'm pretty sure there's a NDA I signed somewhere, so I won't disclose all the details.</i> The basic idea is simple: successful integration would mean customers are able to use their credentials from another Canadian banking institution (e.g RBC, TD, Scotiabank) to open a banking account with HSBC rather seamlessly. Authentication via trusted digital credentials (assets) could revolutionize the banking industry; it saves customers the trouble of keying endless forms of personal information, and helps banks combat fraud and identity theft through a potential trusted source.
 

@@ -13,14 +13,14 @@ tag:
 star: true
 category: experience 
 experience: true
-subtitle: 'Experience: Research Assistant (Part-Time) at UBC Visual Cognition Lab'
+subtitle: 'Experience: Research Assistant at the UBC Visual Cognition Lab'
 author: nicholaschin
 description: September 2018 - Present  |  Vancouver B.C
 --- 
 
-From September 2018 to May 2020 I worked sporadically as a research assistant for the Visual Cognition Lab, <a href="https://viscoglab.psych.ubc.ca/">a vision science lab at the University of British Columbia</a>. To investigate visual intelligence, the lab leverages psychophysics methods like the <a href="https://en.wikipedia.org/wiki/Weber%E2%80%93Fechner_law">Weber-Fechner</a> and <a href="https://en.wikipedia.org/wiki/Stevens%27s_power_law"> Stevens's Power law</a> to measure the relationship between observer perception and physical visual stimuli. The hope is that experimental results will help with the design of more effecitve visual displays and visualization techniques. During my time with the team I used technologies like <a href="https://nodejs.org/en/">Node.js</a>, C++ and Python across a variety of tasks and projects. 
+From September 2018 to May 2020 I worked sporadically as a research assistant for the Visual Cognition Lab, <a href="https://viscoglab.psych.ubc.ca/">a vision science lab at the University of British Columbia</a>. With the goal of investigating visual intelligence, the lab leverages psychophysics methods like the <a href="https://en.wikipedia.org/wiki/Weber%E2%80%93Fechner_law">Weber-Fechner</a> and <a href="https://en.wikipedia.org/wiki/Stevens%27s_power_law"> Stevens's Power law</a> to measure the relationship between observer perception and physical visual stimuli. The hope is that such behavioral experimentation will yield findings concerning human attention and perception, which will in turn drive the practical design of more effective visual displays and visualization techniques. During my time with the team I used technologies like <a href="https://nodejs.org/en/">Node.js</a>, C++ and Python across a variety of tasks and projects. 
 
-## Project Flowshow
+## Project: Flowshow
 
 <p align="center">
     <img src="/assets/images/blogs/flowshow.png" width="100%" />
@@ -38,7 +38,7 @@ During my first year with the lab, I worked mainly on Flowshow, a decade-long pr
 * Helped with development of the lab's <a href="https://viscoglab.psych.ubc.ca/">website</a> using HTML/CSS/JavaScript. 
 * Hosted a series of bi-weekly <a href="https://jupyter.org/">Jupyter</a> workshops for lab members.
 
-## Visual Perception of Correlation
+## Project: Visual Perception of Correlation
 
 <p align="center">
     <img src="/assets/images/blogs/vcl-webapp.png" width="100%" />

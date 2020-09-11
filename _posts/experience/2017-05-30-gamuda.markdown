@@ -7,8 +7,7 @@ headerImage: true
 tag: 
     - internship
     - python
-    - gophish
-    - pen-test
+    - linux
 star: true
 category: experience
 experience: true
@@ -17,10 +16,12 @@ author: nicholaschin
 description: May 2017 - July 2017  |  Malaysia, Kuala Lumpur
 --- 
 
+In the summer of 2016, I undertook a eight-week internship with the cybersecurity division at Gamuda Berhad. Having just completed my first year of university at the time, 
+
+
 <hr/>
 
-
 ### About Gamuda
-<a href="https://gamuda.com.my/"> Gamuda Berhad</a> is an engineering, property and infrastructure company based in Malaysia. It is one of the largest Malaysian infrastructure companies, with a proven track record of delivering innovative breakthrough solutions worldwide.
+Founded in 1976, <a href="https://gamuda.com.my/"> Gamuda Berhad</a> has grown from a construction-based enterprise to become Malaysia’s leading infrastructure developer with core competencies in engineering and construction, infrastructure concessions, as well as lifestyle property and township development. The company has taken on various projects, both locally and overseas, such the construction of Klang Valley MRT lines, Doha international airport, <a href="https://gamudaland.com.my/">Gamuda Land</a> housing development in Malaysia and Vietnam and so on. 
 
  
