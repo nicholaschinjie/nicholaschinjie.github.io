@@ -41,7 +41,7 @@ Yet, it's difficult to see how my journey could be any more conventional. Perhap
 </p>
 
 <p align="center">
-    <i style="font-size:90%;"> Rare image shot Pre-Corona era, circa 2017
+    <i style="font-size:90%;"> Rare social gathering pre-COVID era, image capture circa 2017.
     </i>
 </p>
 
