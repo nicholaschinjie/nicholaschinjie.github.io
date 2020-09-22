@@ -1,27 +1,30 @@
 ---
-title: "Network Security Intern" 
-layout: post 
+title: "Network Security Intern"
+layout: post
 date: 2020-05-17 23:47
 image: /assets/images/org/gamuda.png
 headerImage: true
-tag: 
+tag:
     - internship
     - python
     - linux
 star: true
 category: experience
 experience: true
-subtitle: 'Experience: My first-ever internship at Gamuda Berhad'
+subtitle: "Experience: My first-ever internship at Gamuda Berhad"
 author: nicholaschin
 description: May 2017 - July 2017  |  Malaysia, Kuala Lumpur
---- 
+---
 
-In the summer of 2016, I undertook a eight-week internship with the cybersecurity division at Gamuda Berhad. Having just completed my first year of university at the time, 
+In the summer of 2016, I undertook a eight-week internship with the cybersecurity division at Gamuda Berhad. On my first day, I was handed a laptop together with a pendrive containing a <a href="https://www.kali.org/">Kali Linux</a> bootable ISO image. Having just complete my first year of university, my work initially involved leveraging tools such as <a href="https://nmap.org/">Nmap</a> and <a href="https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/nslookup">"nslookup"</a> to perform simple IP scanning and discovery. Later, I got to work with more advanced tools such as <a href="https://www.wireshark.org/">Wireshark</a> and <a href="https://getgophish.com/">Gophish</a> to carry out internal social engineering attacks for internal analysis.
 
+-   Shadowed and assisted my supervisor in performing regular security monitoring and maintaience on workstations operating under the company's internal network
+-   Conducted a month-long phishing attack on employee email channels using <a href="https://getgophish.com/">Gophish</a>, as part of a company IT security exercise to raise cybersecurity awareness.
+
+For the most part, I played a supporting role as an intern (given this was my first internship and I knew virtually next to nothing). Interestingly, my work term coincided with the global ransomware virus cyberattacks at the beginning of May 2017, which increased the sense of significance and urgency at which I carried out my tasks.
 
 <hr/>
 
 ### About Gamuda
-Founded in 1976, <a href="https://gamuda.com.my/"> Gamuda Berhad</a> has grown from a construction-based enterprise to become Malaysia’s leading infrastructure developer with core competencies in engineering and construction, infrastructure concessions, as well as lifestyle property and township development. The company has taken on various projects, both locally and overseas, such the construction of Klang Valley MRT lines, Doha international airport, <a href="https://gamudaland.com.my/">Gamuda Land</a> housing development in Malaysia and Vietnam and so on. 
 
- 
+Founded in 1976, <a href="https://gamuda.com.my/"> Gamuda Berhad</a> has grown from a construction-based enterprise to become Malaysia’s leading infrastructure developer with core competencies in engineering and construction, infrastructure concessions, as well as lifestyle property and township development. The company has taken on various projects, both locally and overseas, such the construction of Klang Valley MRT lines, Doha international airport, <a href="https://gamudaland.com.my/">Gamuda Land</a> housing development in Malaysia and Vietnam and so on.
