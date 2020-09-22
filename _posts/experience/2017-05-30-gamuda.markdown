@@ -21,7 +21,8 @@ In the summer of 2016, I undertook an eight-week internship with the cybersecuri
 -   Shadowing and assisting my supervisor in performing regular security monitoring and maintaience on workstations operating under the company's internal network
 -   Conducting a month-long phishing attack on employee email channels using <a href="https://getgophish.com/">Gophish</a>, as part of a company IT security exercise to raise cybersecurity awareness.
 
-For the most part, I played a supporting role as an intern (given this was my first internship and that I knew virtually next to nothing). Interestingly, my work term coincided with the global ransomware virus cyberattacks at the beginning of May 2017, which increased the sense of significance and urgency at which I carried out my tasks. While this internship certainly does not make me Hackerman, the networking concepts I picked up proved useful down the line.
+For the most part, I played a supporting role as an intern; given this was my first internship, and I knew virtually next to nothing). Interestingly, my work term coincided with the <a href="https://en.wikipedia.org/wiki/WannaCry_ransomware_attack">global ransomware virus cyberattacks</a> at the beginning of May 2017, which upped the sense of significance and urgency at which I carried out my tasks. While this internship certainly did not make me Hackerman, the networking concepts I picked up proved useful down the line.
+<br>
 
 <hr/>
 
