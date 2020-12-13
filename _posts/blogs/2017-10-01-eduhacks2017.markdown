@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Eduhacks 2017: Down the Hacker Rabbit Hole"
 layout: post
 date: 2017-10-05 22:10
@@ -15,7 +15,7 @@ description: "how both attending, then winning, my first hackathon would set the
 category: blog
 author: nicholaschin
 externalLink: false
----
+--- -->
 
 
 <p align="center">

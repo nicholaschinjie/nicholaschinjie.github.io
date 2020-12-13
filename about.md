@@ -37,7 +37,7 @@ At the end of the day, I wanna know how to do it all myself  -->
 </p>
 
 <p align="left">
-    <i style="font-size:90%;"> state-of-the-art AI that determines if you are dabbing or not. Imagine the possibilities.
+    <i style="font-size:90%;"> state-of-the-art AI that tells if you're dabbing, imagine the possibilities.
     </i>
 </p>
 <br class="porygon-line"/>
