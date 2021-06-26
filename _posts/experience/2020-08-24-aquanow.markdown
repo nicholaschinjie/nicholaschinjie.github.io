@@ -7,7 +7,8 @@ headerImage: true
 tag: 
     - internship 
     - javascript
-    - tbd
+    - aws
+    - serverless
 star: true
 blog: true
 hidden: true
@@ -15,10 +16,9 @@ category: experience
 experience: true
 subtitle: 'Experience: Software Developer Intern at Aquanow' 
 author: nicholaschin
-description: September 2020 - Present  |  Vancouver B.C
+description: September 2020 - December 2020  |  Vancouver B.C
 --- 
 
-Currently in progress :) 
 
 <hr/>
 
