@@ -24,4 +24,4 @@ description: September 2020 - December 2020  |  Vancouver B.C
 
 
 ### About Aquanow 
-<a href="https://aquanow.io/">Aquanow</a> is a liquidity provider that provides a feature-rich electronic trading experience designed for principal trading, and integrations into products and financial systems. Their suite of algorithms allow customers to access deeper liquidity, better market pricing, and streamlined business processes. They are currently headquartered in Vancouver, British Columbia.
+<a href="https://aquanow.io/">Aquanow</a> is a cryptocurrency liquidity provider that provides a feature-rich electronic trading experience designed for principal trading, and integrations into products and financial systems. Their suite of algorithms allow customers to access deeper liquidity, better market pricing, and streamlined business processes. They are currently headquartered in Vancouver, British Columbia.
