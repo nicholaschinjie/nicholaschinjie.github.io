@@ -1,0 +1,27 @@
+---
+title: "Full-Stack Developer"
+layout: post
+date: 2021-05-21 9:00
+image: /assets/images/org/hsbc.png
+headerImage: true
+tag:
+    - java
+    - spring
+    - AWS 
+    - jenkins
+
+star: true
+blog: true
+hidden: true
+category: experience
+experience: true
+subtitle: "Experience: Software Developer at HSBC"
+author: nicholaschin
+description: May 2021 - Present  |  Vancouver B.C
+---
+
+
+
+### About HSBC
+
+<a href="https://www.hsbc.com/">HSBC</a> is one of the world’s largest banking and financial services organisations. They serve more than 40 million customers through their global businesses: Wealth and Personal Banking, Commercial Banking, and Global Banking and Markets. Their network covers 64 countries and territories in Europe, Asia, the Middle East and Africa, North America and Latin America.
