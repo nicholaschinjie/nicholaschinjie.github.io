@@ -16,6 +16,8 @@ author: nicholaschin
 externalLink: false
 ---
 
+collection of only the best design practices
+
 ## What are APIs?
 Recently, I was tasked with a coding assignment as part of an internship position I had applied for. The task was designed to evaluate my understanding of basic API programming and language agnostic design practices. The desired product was to create a backend system that could retrieve and save photos from a third party application API, then store and 'make-accessible' the photos in my own local database.
 
