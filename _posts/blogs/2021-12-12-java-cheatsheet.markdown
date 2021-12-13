@@ -21,8 +21,6 @@ externalLink: false
 - Java applications tend to be ran as a single process. Within that process, applications can utilize independent "threads"of execution to perform tasks in parallel.
 - A typical java web server has hundreds of threads. Each request to the server is handled on its own thread, and modern Java web servers are typically non blocking. 
 
-Java advantages 
-
 ## OOPS
 
 Advantages 
