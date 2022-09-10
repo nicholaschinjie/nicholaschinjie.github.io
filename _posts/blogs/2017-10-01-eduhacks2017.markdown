@@ -74,7 +74,7 @@ If there's anything I've learnt from this experience, it's that being a good dev
 By 2pm, the final project submission deadline was up, as the auditorium of 400+ participants waited in an eager clamor. Then, every group's prototype and idea was judged. <a href="/_posts/projects/2017-10-01-teacher-for-a-day">Here's what we submitted.</a>
 
 
-**Then came the madness**
+#### Then came the madness
 
 Amidst the celebration of 60+ groups, 5 groups were chosen as the competition's finalists (6 in this case because we later found out that two groups scored the exact same points in the first stage). Having been pre-advised to prepare a presentation in case we made the finals, based of the judges facial reactions, we were ready to pack our bags and catch the next bus home. Then, against all expectations, and definitely beyond my wildest imagination, we were called to the front.
 
@@ -82,7 +82,7 @@ Oscillating between disbelief and panic, our team scrambled and eventually deliv
 
 Truth being told, before any form of announcement was made, I promised myself two things: (a) win or lose, I'd still have much to learn; (b) if we did win, to prevent this victory from inflating unrealistic expectations of myself. In hindsight, the latter really shouldn't have been there considering how much my contributions had paled next to my teammates'.
 
-**But I remember**
+### I remember
 
 So nervously the moment when third prize was announced
 
@@ -96,10 +96,6 @@ Although words may not capture what I felt there and then, the emotion of the ex
     <img src="/assets/images/blogs/waitwhat.png" width="100%" />
 </p>
 
-<p align="center">
-    <i style="font-size:90%;"> Mix of joy, excitement and lethargy
-    </i>
-</p>
 
 ### At the end of the hole
 
@@ -111,7 +107,7 @@ If I were to rate this hackathon on a functional level, the experience itself di
 </p>
 
 <p align="center">
-    <i style="font-size:90%;"> From left to right: me, Charlene, Jane, Trevin, Yili
+    <i style="font-size:90%;"> </b>Pictured from left to right:</b> me, Charlene, Jane, Trevin, Yili
     </i>
 </p>
 
