@@ -6,7 +6,7 @@ image: /assets/images/org/aquanow.png
 headerImage: true
 tag: 
     - internship 
-    - javascript
+    - javascript```
     - aws
     - serverless
 star: true
