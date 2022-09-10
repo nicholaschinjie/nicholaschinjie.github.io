@@ -71,7 +71,7 @@ By midnight, we had already made up for lost time. With an interactive UI in RPG
 #### T-minus 00:00: Launch
 If there's anything I've learnt from this experience, it's that being a good developer isn't about knowing more than others. Rather, it's about being willing to constantly learn and seek answers in the right places. I first experienced this from Trevin. Through working with him, he remained steadfast in the way he approached each feature; tackling them without regard for their complexities, using every available resource to seek answers even if he didn't know where to begin, and constantly iterated upon improving his own code. But perhaps his biggest contribution was his willingness to adapt; using JavaScript instead of Lua for us who didn't share the same technical proficiencies at the time. Even in the mere minutes before submissions, he remained cool and supported us as we finally pushed our complete work over the finish line.
 
-By 2pm, the final project submission deadline was up, as the auditorium of 400+ participants waited in an eager clamor. Then, every group's prototype and idea was judged. <a href="/_posts/projects/2017-10-01-teacher-for-a-day">Here's what we submitted.</a>
+By 2pm, the final project submission deadline was up, as the auditorium of 400+ participants waited in an eager clamor. Then, every group's prototype and idea was judged. <a href="https://nicholaschinjie.github.io/teacher-for-a-day/">Here's what we submitted.</a>
 
 
 #### Then came the madness
