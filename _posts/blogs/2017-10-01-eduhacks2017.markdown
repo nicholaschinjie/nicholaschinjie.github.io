@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: "Eduhacks 2017: Down the Hacker Rabbit Hole"
 layout: post
 date: 2017-10-05 22:10
@@ -15,7 +15,7 @@ description: "how both attending, then winning, my first hackathon would set the
 category: blog
 author: nicholaschin
 externalLink: false
---- -->
+---
 
 
 <p align="center">
@@ -30,61 +30,13 @@ I've never been accused of substance abuse. Unless you'd consider hundred millig
 
 A feeling of such high is difficult to come by. Yet is one that perfectly describes my experience at Eduhacks 2017; the first of many 24-hour hackathons I would attend during my time as an undergraduate at the University of British Columbia. In retrospect, it's difficult to justify why I'd choose to spend my weekends holed up indoors, despite being situated in the heart of bright and beautiful British Columbia. This event being my first, I certainly wasn't expecting to win anything. What ultimately convinced me was the prospect of gaining experience outside the classroom. Plus, I really wanted to add to my laptop sticker collection.
 
-However, due to a mixture of ineffective communication and bad 'economic' planning, the team-of-five I assembled beforehand never showed up. No longer protected by the in-group homogeneity bubble, I was wrought with uncertainty. Being surrounded by far more experienced hackers in filled teams and ready-made ideas left me more vulnerable to imposter syndrome than ever. Metaphorically, in this instance the ground beneath my feet began to sink, and **there began my descent down the rabbit hole**.
+However, due to a mixture of ineffective communication and bad 'economic' planning, the team-of-five I assembled beforehand never showed up. No longer protected by the in-group homogeneity bubble, I was wrought with uncertainty. Being surrounded by far more experienced hackers in filled teams and ready-made ideas left me more vulnerable to imposter syndrome more than ever. Metaphorically, in this instance the ground beneath my feet began to sink, and **there began my descent down the rabbit hole**.
 
 ### Team Building Without Autofill Parity
 
 The first hour of the plunge down is typically defined by inexperience. In my case, that inexperience perfectly partnered my underqualifications. I came from a background satiated with individual competition designed to bring the most out of every person. Competing in inter-state badminton competitions made me understand that in some cases you are the better player and in some cases your opponent is just stronger.
 
-What I wish I knew at the time was at a hackathon - **learning** is it's very core activity. Competition will always be binary. But for more than 24 hours, we have the chance to teach others what has been taught to us, and for the more experienced to provide a helping hand to those of us in need of one. Hackathons are breeding grounds for talented people of diverse backgrounds. And even though the process of working with strangers instead of friends may be initially daunting, it presents a rare opportunity. Even if you don't know how to code - you get to participate in a dialougue where initially alien concepts, new programming languages, and courtesy is shared and practiced. For me, the wonders of the development process is exemplified by conversation and honest feedback - by some of the most talented people I've had the pleasure of working with.
-
-It just so happened, on that fateful day, I was introduced to four of them - an educator, an artist, two developers. Armed with a melting pot of ideas, it was go time. 
-
-
-### To Hack A Product
-
-Blessed to have an idea. But panic mode - 6 hrs in we still didn't have anything. 
-
-<!-- 
-
-But in the moment, ain't got no time for games, CODE AND FIGURE IT OUT NOW! 
-
-It's
-It forced me out of my comfort zone; daunted by the expansive horizons, and what I know now is insignificant to how much there is out there. (no matter how many times I attend hackathons and grow, there's always still something I don't know)
-Nor should the process be conditional; no matter one's level of experience, there are always things that can be learnt by speaking to others.
-
-The solution: next part = working on it
-
-## Learn fast or die slow 
-
-the dopamine 
-
-## Learn from where?
-
-## Expecting to win (skills =/= ideas)
-
-## The thing about rabbit holes
-- what is a rabbit hole
-- why did I go down the rabbit hole
-- winning was nice, but over the countless hackathons I've learnt: perserverence, you can always be better, you win you lose, can be a waste of time if you're not careful. But it's about putting yourself out there and doing all of the above (learning, inspiring, developing, networking) 
-- SHOW ALL OTHER HACKATHONS YOU DIDN'T WIN BUT HAD FUN (YOU GROW IN EACH ONE)
-
-- meeting people, absorbing so much (knowledge transfer), recruiters, mentorship 
-
-- How do people know so much. Where do they learn all this? (not in the classroom, through sheer effort, willpower, and late nights)
-- The rabbit hole I refer to is the time spent and madness dedicated to figure out problems, stick with code. Not just get good at algorithms and class stuff, learn to use libraries, frameworks. Self taught
-- The need to know, the desire to succeed
-- The never ending learning cycle 
-
-- Realistic expectaions - the rush of winning is rare (idea x skills) - winning ideas, no matter how good a developer you are 
-
-- The thing about rabbit holes https://hackernoon.com/the-thing-about-rabbit-holes-201402f77873 
-
-- And no matter how much you learn. There's always more. The constant learning cycle is essential to staying viable. 
-The Constant Learning Cycle of a Web Developer 
-
-
-Now the world of industry is a complete different beast, but as long as you approach things with the same growth-mindset and a continuous desire to learn (as described in this blog), you're all good to go.  -->
+What I wish I knew at the time was at a hackathon - **learning** is it's very core activity. Competition will always be binary. But for more than 24 hours, we have the chance to teach others what has been taught to us, and for the more experienced to provide a helping hand to those of us in need of one. Hackathons are breeding grounds for talented people of diverse backgrounds. And even though the process of working with strangers instead of friends may be initially daunting, it presents a rare opportunity. Even if you don't know how to code - you get to participate in a dialogue where initially alien concepts, new programming languages, and courtesy is shared and practiced. For me, the wonders of the development process is exemplified by conversation and honest feedback - by some of the most talented people I've had the pleasure of working with.
 
 <p align="center">
     <img src="/assets/images/blogs/impoverished.png" width="100%" />
@@ -96,15 +48,16 @@ Now the world of industry is a complete different beast, but as long as you appr
 </p>
 
 
-<p align="center">
-    <img src="/assets/images/blogs/twitter.png" width="100%" />
-</p>
+It just so happened, on that fateful day, I was introduced to four of them - an educator, an artist, two developers. Armed with a melting pot of ideas, it was go time. 
 
-<p align="center">
-    <i style="font-size:90%;"> Nope. Still can't believe it
-    </i>
-</p>
 
+### Down the rabbit hole
+
+#### T-minus 24:00: Inexperience paralysis
+Lua. Words cannot describe how I felt when my gaze fell upon its nonsensical jargon. Up to this point, I had only a pinch of experience with coding in Python and the grotesque syntax of Dr Racket. Our initial idea using Lua was to create a game with a similar programming stack to our teammate/lead developer Trevin's <a href="https://github.com/trevinwong/paper_cut">paper_cut</a> project, which had seen its share of praise in a prior hackathon. The only problem was, both my friend and I couldn't code in Lua. And despite our best attempts to reverse engineer pre-existing code from template projects, there was no way we were going to build anything authentic or substantial in 24 hours. It was a horrifying feeling - feeling both useless and stupid and unable to contribute to your team. Eventually, after spending close to five consecutive hours on "coding", Trevin finally reconsidered using RPG maker instead, where scripting was powered by JavaScript. When we went finally down for lunch at 4pm in the afternoon, I can assure you my sushi has never tasted sweeter.
+
+#### T-minus 12:00: Learn fast or die slow
+By midnight, we had already made up for lost time. With an interactive UI in RPG Maker, I found myself crunching through deliverables at a faster rate. And although it still took time to get used to JavaScript syntax and the program's interface, anything was better than being trapped in a warp of hopelessness. Using every available JavaScript For Dummies guide and earphones plugged firmly in my earlobes, we as a team burnt the midnight oil together. Jane as the brains behind the organization, responsible for every detail from the base idea and concept generation. She and Yili also worked hard on creating the sprites, hand-drawn character art, and scripts for character dialgoue. While the rest of us split the dev work amongst ourselves; Charlene and I focused on game physics and interaction, while Trevin worked mostly on game scripting and developing plugins not natively supported by RPGMaker. The prospect of sleep was tempting, but after seeing the rest of my team trudge on the entire night, my guilty conscience wouldn't let me. By dawn, we began drifting in and out of consciousness and took shifts until daylight broke.
 
 <p align="center">
     <img src="/assets/images/blogs/knockout.png" width="30%" />
@@ -115,11 +68,51 @@ Now the world of industry is a complete different beast, but as long as you appr
     </i>
 </p>
 
+#### T-minus 00:00: Launch
+If there's anything I've learnt from this experience, it's that being a good developer isn't about knowing more than others. Rather, it's about being willing to constantly learn and seek answers in the right places. I first experienced this from Trevin. Through working with him, he remained steadfast in the way he approached each feature; tackling them without regard for their complexities, using every available resource to seek answers even if he didn't know where to begin, and constantly iterated upon improving his own code. But perhaps his biggest contribution was his willingness to adapt; using JavaScript instead of Lua for us who didn't share the same technical proficiencies at the time. Even in the mere minutes before submissions, he remained cool and supported us as we finally pushed our complete work over the finish line.
+
+By 2pm, the final project submission deadline was up, as the auditorium of 400+ participants waited in an eager clamor. Then, every group's prototype and idea was judged. <a href="/_posts/projects/2017-10-01-teacher-for-a-day">Here's what we submitted.</a>
+
+
+**Then came the madness**
+
+Amidst the celebration of 60+ groups, 5 groups were chosen as the competition's finalists (6 in this case because we later found out that two groups scored the exact same points in the first stage). Having been pre-advised to prepare a presentation in case we made the finals, based of the judges facial reactions, we were ready to pack our bags and catch the next bus home. Then, against all expectations, and definitely beyond my wildest imagination, we were called to the front.
+
+Oscillating between disbelief and panic, our team scrambled and eventually delivered a presentation worthy of the final judges, who were some pretty influential actors in Vancouver's entreprenurial scene such as <a href="https://research.ecuad.ca/livinglabs/people/hussein-hallak/"> Hussein Hallak</a> of <a href="https://www.launchacademy.ca/">Launch Academy</a> and <a href="https://beedie.sfu.ca/profiles/SarahLubik">Dr Sarah Lubik</a> from Simon Fraser's University. After a long emotional overhaul, the judges had issued their verdict.
+
+Truth being told, before any form of announcement was made, I promised myself two things: (a) win or lose, I'd still have much to learn; (b) if we did win, to prevent this victory from inflating unrealistic expectations of myself. In hindsight, the latter really shouldn't have been there considering how much my contributions had paled next to my teammates'.
+
+**But I remember**
+
+So nervously the moment when third prize was announced
+
+So vividly the moment when the camera turned on us even before second prize was announced
+
+So fondly the moment of excitement when my team and I scrambled onto stage in utter joy and disbelief.
+
+Although words may not capture what I felt there and then, the emotion of the experience permanently lives within me. 
+
 <p align="center">
     <img src="/assets/images/blogs/waitwhat.png" width="100%" />
 </p>
 
 <p align="center">
-    <i style="font-size:90%;"> WHAT???
+    <i style="font-size:90%;"> Mix of joy, excitement and lethargy
     </i>
 </p>
+
+### At the end of the hole
+
+If I were to rate this hackathon on a functional level, the experience itself did more for me than the prize ever did. Eduhacks served as a reminder that out there exists a supportive yet competitive Darwinian dimension to the field of technology; where you have to be better in order to thrive. I'm glad I got to meet its proponents, because now I have a reference point and have begun growing a network of contacts. It also introduced me the components of a good developer, philosophies than I hold closely into my own career. Overall, I'm really proud I attended this event and thankful for it catapulting me down this rabbit hole; a never-ending realm of questions and uncertainty. The reward of achievement was simply a surplus.
+
+
+<p align="center">
+    <img src="/assets/images/blogs/twitter.png" width="100%" />
+</p>
+
+<p align="center">
+    <i style="font-size:90%;"> From left to right: me, Charlene, Jane, Trevin, Yili
+    </i>
+</p>
+
+
