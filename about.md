@@ -25,7 +25,7 @@ Mostly API dev rn, getting into distributed systems and devops.
 At the end of the day, I wanna know how to do it all myself  -->
 
 <!-- <p>I have professional working experience with <b> Java </b> (Spring) and <b> JavaScript</b>, but above all, I'm eager to learn new things.<br/><br/> -->
-  Hi there! My name is <b>Nicholas</b> and I am a student majoring in Cognitive Systems at the University of British Columbia with a passion for building and breaking things.<br> I'm currently working at <a target="_blank" href="/hsbc-2"> HSBC </a> as a full time software developer.
+  Hi there! My name is <b>Nicholas</b> and I'm currently working at <a target="_blank" href="/hsbc-2"> HSBC </a> as a full time software developer. I have a passion for building and breaking things.<br> 
 
   This north star had me develop a particular appetite for DevOps and backend API development, acquired through multiple software engineering internships at <a target="_blank" href="/aquanow"> Aquanow</a>, <a target="_blank" href="/revenuemonster"> Revenue Monster</a>, and <a target="_blank" href="/hsbc"> HSBC</a>. I've also participated actively as a research assistant at the <a target="_blank" href="/ubc-vcl"> Visual Cognition Lab</a> for the last two years, using experimental data to develop better data visualization displays.<br>
 
