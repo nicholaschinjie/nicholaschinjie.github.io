@@ -2,14 +2,14 @@
 title: About
 layout: page
 ---
-<!-- ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}) -->
 
 <hr/>
 <center> 
-        <h2 style="font-weight:400;text-align:center;font-size:28px" id="about-me">
+        <h2 style="font-weight:400;text-align:center; " id="about-me">
             <a style="color:black;text-decoration: none;">about me</a>
         </h2>     
 </center>
+
 <br class="porygon-line"/>
 <p align="center">
 	<img class="porygon" src='/assets/images/porygon.png' >

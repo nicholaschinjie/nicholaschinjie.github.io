@@ -6,20 +6,20 @@ title: Projects
 <hr />
 <center>
 
-        <h2 style="font-weight:400;text-align:center" id="project">
-            <a style="color:black;text-decoration: none;" href="/projects">not-so-personal projects</a>
-        </h2>        
+    <h2 style="font-weight:400;text-align:center" id="project">
+        <a style="color:black;text-decoration: none;" href="/projects">not-so-personal projects</a>
+    </h2>
 
 </center>
-<br class=porygon-line/>
+<br class=porygon-line />
 <p align="center">
-	<img class="porygonz" src='/assets/images/porygonz.png'>
+    <img class="porygonz" src='/assets/images/porygonz.png'>
 </p>
 
 
 <p align="center">
     Here's to the open-sourced, buzzword-plagued, hackathon-contrived projects I've
-    been working on (or have worked on). 
+    been working on (or have worked on).
 </p>
 
 <p align="center">
@@ -28,24 +28,25 @@ title: Projects
 
 <section class="list">
     {% for post in site.posts %}
-        {% if post.projects %}
-            <div class="item">
-                {% if post.star %}<br />{% endif %}
-                <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
-                    <h3 class="title">{{ post.title }}</h3>
-                    {% if post.star %}
-                        <br />
-                        <img class="image" src="{{ post.image }}" width="80%" style="margin-top:10px"/>
-                    {% endif %}
-                    <div class="post-tags">
-                        {% for tag in post.tags %}
-                            <a class="item">{{ tag }}</a>
-                        {% endfor %}
-                    </div>
-                    <p> {{ post.description }} </p>
-                </a>
-                {% if post.star %}<br />{% endif %}
+    {% if post.projects %}
+    <div class="item">
+        {% if post.star %}<br />{% endif %}
+        <a class="url"
+            href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
+            <h3 class="title">{{ post.title }}</h3>
+            {% if post.star %}
+            <br />
+            <img class="image" src="{{ post.image }}" width="80%" style="margin-top:10px" />
+            {% endif %}
+            <div class="post-tags">
+                {% for tag in post.tags %}
+                <a class="item">{{ tag }}</a>
+                {% endfor %}
             </div>
-        {% endif %}
+            <p> {{ post.description }} </p>
+        </a>
+        {% if post.star %}<br />{% endif %}
+    </div>
+    {% endif %}
     {% endfor %}
 </section>
