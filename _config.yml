@@ -35,7 +35,7 @@ analytics-google: 'UA-176277506-1'
 #   categories: # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-# facebook: myfacebook
+facebook: test
 # twitter: mytwitter
 # pinterest: mypinterest
 # youtube: myyoutube
