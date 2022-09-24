@@ -49,7 +49,7 @@ At the end of the day, I wanna know how to do it all myself  -->
 
 
 ##### more about me
-<p style="font-size:90%;">Here's a copy of my most recent (though sometimes outdated) <a target="_blank" href="/assets/resume.pdf">résumé</a>.</p>
+<p style="font-size:90%;">Here's a copy of my most recent <a target="_blank" href="/assets/resume.pdf">résumé</a>.</p>
 
 
 ##### getting in touch
