@@ -9,7 +9,7 @@ tag:
 headerImage: false
 blog: true 
 blog-highlights: false
-description: "natural selection is case by case pragmatism at its finest"
+description: "naturally and carefully selected Java notes over time"
 category: blog
 author: nicholaschin
 externalLink: false
