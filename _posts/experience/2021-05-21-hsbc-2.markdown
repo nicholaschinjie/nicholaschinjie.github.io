@@ -7,6 +7,7 @@ headerImage: true
 tag:
     - java
     - spring
+    - react
     - AWS 
     - jenkins
 
@@ -17,7 +18,7 @@ category: experience
 experience: true
 subtitle: "Experience: Software Developer at HSBC"
 author: nicholaschin
-description: May 2021 - Present  |  Vancouver B.C
+description: May 2021 - Jan 2023  |  Vancouver B.C
 ---
 
 
