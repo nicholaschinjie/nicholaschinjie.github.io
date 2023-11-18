@@ -1,0 +1,27 @@
+---
+title: "Software Developer"
+layout: post
+date: 2021-05-21 9:00
+image: /assets/images/org/boeing.png
+headerImage: true
+tag:
+    - java
+    - spring
+    - angular 
+    - kubernetes
+
+star: true
+blog: true
+hidden: true
+category: experience
+experience: true
+subtitle: "Experience: Software Developer at Boeing"
+author: nicholaschin
+description: Jan 2023 - Present  |  Richmond B.C
+---
+
+
+
+### About Boeing
+
+As a leading global aerospace company, <a href="https://www.boeing.com/"> Boeing develops </a>, manufactures and services commercial airplanes, defense products and space systems for customers in more than 150 countries. As a top U.S. exporter, the company leverages the talents of a global supplier base to advance economic opportunity, sustainability and community impact. Boeing’s diverse team is committed to innovating for the future, leading with sustainability, and cultivating a culture based on the company’s core values of safety, quality and integrity.
