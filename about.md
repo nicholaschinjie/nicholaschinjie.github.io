@@ -50,13 +50,13 @@ layout: page
 <p style="font-size:90%;"> This is my favorite Pokémon character, <b>Porygon</b>, the first artificial Pokémon to be made completely of source code. It was what put the topic of computer programming on my radar from an early age, and was what inspired this website's color scheme.</p>
  
 
-<center>
+<!-- <center>
 <div class="inline-block">
 <img class="mini-porygon" src='/assets/images/porygon.png' max-width="10%"> porgyon
 <img class="mini-porygon" src='/assets/images/porygon2.png' max-width="10%"> porygon2
 <img class="mini-porygonz" src='/assets/images/porygonz.png' width="10%"> porygonZ
 </div>
-<center/>
+<center/> -->
 
 
 
