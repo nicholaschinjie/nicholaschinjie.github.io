@@ -7,7 +7,7 @@ tag:
 - java
 - dev-diary
 headerImage: false
-blog: true 
+blog: false 
 blog-highlights: false
 description: "naturally and carefully selected Java notes over time"
 category: blog
