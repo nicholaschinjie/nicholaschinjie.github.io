@@ -16,41 +16,38 @@ layout: page
 </p>
 <br class="porygon-line"/>
 
-  Hi there. My name is <b>Nicholas</b> and I'm currently working at <a target="_blank" href="/hsbc-2"> Boeing </a> as a full time software developer. I have a passion for building and breaking things.<br> 
+  Hi there. My name is <b>Nicholas</b> and I'm currently working at <a target="_blank" href="/boeing"> Boeing</a> as a software developer. I'm passionate about software because it turn ideas into reality. Impact far beyond myself.<br> 
 
-  This north star had me develop a particular appetite for DevOps and backend API development, acquired through multiple software engineering internships at <a target="_blank" href="/aquanow"> Aquanow</a>, <a target="_blank" href="/revenuemonster"> Revenue Monster</a>, and <a target="_blank" href="/hsbc"> HSBC</a>. I've also participated actively as a research assistant at the <a target="_blank" href="/ubc-vcl"> Visual Cognition Lab</a> for the last two years, using experimental data to develop better data visualization displays.<br>
+  This north star had me develop an appetite for building things at scale, acquired through work, upskilling and past experiences at <a target="_blank" href="/hsbc-2"> HSBC</a>, <a target="_blank" href="/aquanow"> Aquanow</a> and <a target="_blank" href="/revenuemonster"> Revenue Monster</a>. I also used to work with the <a target="_blank" href="/ubc-vcl"> UBC Visual Cognition Lab</a>, creating software to research attention in data visualizations.<br>
 
-  Outside work and school, I occasionally attend local hackathons and contribute to open source. Doing so allows me to continue experimenting different technologies while learning from awesome developer communities, which allows me to continue building  <a target="_blank" href="/projects"> cool projects</a>. My friends don't necessarily share the same enthusiam however, and only so many make it onto <a target="_blank" href="https://github.com/theblackathena">my Github</a>. I was also a member of <a target="_blank" href="http://www.ubclaunchpad.com">UBC Launch Pad</a>, where we unilaterally launched some <a target="_blank" href="https://github.com/ubclaunchpad"> cooler projects</a>.<br>
+  I also code for fun. Hacking, hackathons and open source are outlets for me to turn personal ideas into <a target="_blank" href="/projects">cool things</a>. Not everyone shares the same enthusiasm however, I wonder why that could be. 
 
 <br class="porygon-line"/>
 <p align="center">
     <img src="/assets/images/blogs/dab.gif" width="70%" />
 </p>
 
-<p align="left">
+<p align="center">
     <i style="font-size:90%;"> state-of-the-art AI that tells if you're dabbing, imagine the possibilities.
     </i>
 </p>
 <br class="porygon-line"/>
 
-  While waiting for code to compile, you can find me outside trying to play better football. I'm a huge nerd of jazz music and competitive (mostly Pokémon) games. I also play the piano, and you can find some of my attempting performances <a target="_blank" href="/showcase">here</a>. 
-
-<br class="porygon-line"/>
 <hr/>
 
 
 ##### more about me
-<p style="font-size:90%;">Here's a copy of my most recent <a target="_blank" href="/assets/resume.pdf">résumé</a>.</p>
+<p style="font-size:90%;">Here's a copy of my latest <a target="_blank" href="/assets/resume.pdf">résumé</a>.</p>
 
 
 ##### getting in touch
-<p style="font-size:90%;">Feel free to reach out to me by <a target="_blank" href="mailto:nicholaschin20@gmail.com">email</a> (nicholaschin20@gmail.com) or <a target="_blank" href="https://www.linkedin.com/in/nicholaschinjie/">LinkedIn</a>!</p> 
+<p style="font-size:90%;">Feel free to reach out to me by <a target="_blank" href="mailto:nicholaschin20@gmail.com">email</a> (nicholaschin20@gmail.com) or <a target="_blank" href="https://www.linkedin.com/in/nicholaschinjie/">LinkedIn</a>.</p> 
 
 ##### what's this?
 <div class="inline-block">
 <img class="mini-porygon" src='/assets/images/porygon.png' max-width="10%">
 </div>
-<p style="font-size:90%;"> This is my favorite Pokémon character, <b>Porygon</b>. It's the first artificial Pokémon to be made completely of source code. It was what put the topic of computer programming on my radar from an early age, and was what inspired this website's color scheme.</p>
+<p style="font-size:90%;"> This is my favorite Pokémon character, <b>Porygon</b>, the first artificial Pokémon to be made completely of source code. It was what put the topic of computer programming on my radar from an early age, and was what inspired this website's color scheme.</p>
  
 
 <center>

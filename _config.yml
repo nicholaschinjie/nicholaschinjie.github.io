@@ -1,6 +1,6 @@
 # main text of home
-name: nicholas chin
-bio: piano player, pokémon trainer, software developer
+name: nicholas chin jie
+bio:
 # bio-resume: resume
 
 # twitter summary info
@@ -35,7 +35,7 @@ analytics-google: 'UA-176277506-1'
 #   categories: # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: test
+# facebook: test
 # twitter: mytwitter
 # pinterest: mypinterest
 # youtube: myyoutube
@@ -43,7 +43,7 @@ facebook: test
 email: nicholaschin20@gmail.com
 linkedin: nicholaschinjie
 github: nicholaschinjie
-instagram: nicholas2chinz
+# instagram:
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
