@@ -16,11 +16,11 @@ layout: page
 </p>
 <br class="porygon-line"/>
 
-  Hi there. My name is <b>Nicholas</b> and I'm currently working at <a target="_blank" href="/boeing"> Boeing</a> as a software developer. I'm passionate about software because it turn ideas into reality. Impact far beyond myself.<br> 
+  My name is <b>Nicholas</b> and I'm currently working at <a target="_blank" href="/boeing"> Boeing</a> as a software developer. I'm passionate about software because it turns ideas into reality. Impact far beyond myself.<br> 
 
-  This north star had me develop an appetite for building things at scale, acquired through work, upskilling and past experiences at <a target="_blank" href="/hsbc-2"> HSBC</a>, <a target="_blank" href="/aquanow"> Aquanow</a> and <a target="_blank" href="/revenuemonster"> Revenue Monster</a>. I also used to work with the <a target="_blank" href="/ubc-vcl"> UBC Visual Cognition Lab</a>, creating software to research attention in data visualizations.<br>
+  This north star had me develop an appetite for building things at scale, acquired through work, upskilling and past experiences at <a target="_blank" href="/hsbc-2"> HSBC</a>, <a target="_blank" href="/aquanow"> Aquanow</a> and <a target="_blank" href="/revenuemonster"> Revenue Monster</a>. I also used to work with the <a target="_blank" href="/ubc-vcl"> UBC Visual Cognition Lab</a>, creating software to research human perception/attention in data visualizations.<br>
 
-  I also code for fun. Hacking, hackathons and open source are outlets for me to turn personal ideas into <a target="_blank" href="/projects">cool things</a>. Not everyone shares the same enthusiasm however, I wonder why that could be. 
+  I sometimes code for fun. Hackathons and open source are outlets for me to turn personal ideas into <a target="_blank" href="/projects">cool things</a>. Not everyone shares the same enthusiasm however, I wonder why that could be. 
 
 <br class="porygon-line"/>
 <p align="center">
