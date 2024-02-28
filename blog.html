@@ -11,20 +11,16 @@ enabled: true
 <center>
 	<h2 style="font-weight:400;text-align:center" id="blog-highlights">
 		<a style="color:black;text-decoration: none;" href="/blog">blog</a>
-	</h2>     
+	</h2>
 </center>
-<br class=porygon-line/>
+<br class=porygon-line />
 <p align="center">
-	<img class="porygon2" src='/assets/images/porygon2.png' >
+	<img class="porygon2" src='/assets/images/porygon2.png'>
 </p>
 
 
-<p align="center">
-	I like to curl up into a ball and nap after long days of work. Once in a while, however, 
-	I'll sit and write about my experiences and learnings. 
-	At least I'll try to, because I believe it's not all about the end product, but the process. 
-	<!-- of getting there. -->
-</p>
+<!-- <p align="center">
+</p> -->
 
 <p align="center">
 	Opinions expressed are solely my own.
@@ -32,24 +28,24 @@ enabled: true
 
 <section class="list">
 	{% if site.posts.size == 0 %}
-		<p class="text-center">Nothing published yet!</p>
+	<p class="text-center">Nothing published yet!</p>
 	{% elsif site.pagination.enabled %}
-		{% for post in paginator.posts %}
-			{% if post.category == 'blog' %}
-				{% if post.hidden != true %}
-					{% include blog-post.html %}
-				{% endif %}
-			{% endif %}
-		{% endfor %}
+	{% for post in paginator.posts %}
+	{% if post.category == 'blog' %}
+	{% if post.hidden != true %}
+	{% include blog-post.html %}
+	{% endif %}
+	{% endif %}
+	{% endfor %}
 
-		{% include pagination.html%}
+	{% include pagination.html%}
 	{% else %}
-		{% for post in site.posts %}
-			{% if post.category == 'blog' %}
-				{% if post.hidden != true %}
-					{% include blog-post.html %}
-				{% endif %}
-			{% endif %}
-		{% endfor %}
+	{% for post in site.posts %}
+	{% if post.category == 'blog' %}
+	{% if post.hidden != true %}
+	{% include blog-post.html %}
+	{% endif %}
+	{% endif %}
+	{% endfor %}
 	{% endif %}
 </section>
