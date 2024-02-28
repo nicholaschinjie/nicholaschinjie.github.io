@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Darwinian Java Cheat Sheet"
 # title: "The Darwinian Approach to API-culture"
 layout: post
@@ -13,7 +13,7 @@ description: "naturally and carefully selected Java notes over time"
 category: blog
 author: nicholaschin
 externalLink: false
----
+--- -->
 
 ## Basics
 
