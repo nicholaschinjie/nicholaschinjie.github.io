@@ -1,0 +1,249 @@
+.home,
+.blog,
+.projects,
+.experience,
+.showcase,
+    margin-top: 125px
+
+    > .list
+        border-top: 1px solid $epsilon
+        margin-top: 30px
+        padding-top: 40px
+        position: relative
+
+        &:before
+            display: block
+            content: " "
+            width: 7px
+            height: 7px
+            border: $epsilon 1px solid
+            position: absolute
+            top: -5px
+            left: 50%
+            margin-left: -5px
+            background: #FFF
+            box-shadow: #FFF 0 0 0 5px
+            border-radius: 3px
+
+.blog > .list
+    > .item
+        display: block
+        width: 95%
+        margin: 0 auto
+
+    > .item > .url
+        width: 100%
+        display: block
+        padding: 30px 0
+        text-decoration: none
+
+    > .item > .url > .title
+        margin: 0
+        width: 75%
+        font-weight: 500
+        transition: all ease-in-out .2s
+
+    > .item:hover > .url > .title
+        color: $porygon-blue
+
+    aside
+        position: relative
+        top: 2px
+        margin: 0
+        width: 25%
+        float: right
+        font-weight: 300
+        color: $gama
+        text-align: right
+        transition: all ease-in-out .2s
+
+    .item:hover .url aside
+        color: $alpha
+
+.home > .list,
+.projects > .list, 
+.experience > .list,
+.showcase > .list,  
+    > .item
+        display: block
+        width: 95%
+        margin: 0 auto
+
+    > .item > .url
+        width: 100%
+        display: block
+        padding: 20px 0
+        text-decoration: none
+
+    > .item > .url
+        > .title
+            margin: 0
+            width: 75%
+            font-weight: 500
+            transition: all ease-in-out .2s
+        > .image
+            filter: saturate(50%)
+            transition: 0.3s
+
+    > .item:hover > .url
+        > .title
+            color: $porygon-blue
+        > .image
+            filter: saturate(105%)
+
+    aside
+        position: relative
+        top: 2px
+        margin: 0
+        width: 25%
+        float: right
+        font-weight: 300
+        color: $gama
+        text-align: right
+        transition: all ease-in-out .2s
+
+    .item:hover .url aside
+        color: $porygon-blue
+
+.blog > .list > .item
+    > .post-tags
+        color: $gama
+        font-weight: 345
+        font-size: 1.4rem
+        text-transform: uppercase
+        text-align: left
+        float: left
+        display: block
+        margin-bottom: 0rem
+        margin-top: -2.4rem
+        letter-spacing: 1px
+        -webkit-font-smoothing: antialiased
+        text-rendering: optimizeLegibility
+    > .post-tags > .item
+        padding: 2px 8px
+        border-radius: 3px
+        font-size: 1.1rem
+        background: $epsilon
+        color: $porygon-pink
+        letter-spacing: 0.5px
+        margin: 3px 1px
+        text-decoration: none
+        display: inline
+
+.projects > .list > .item,
+    > .post-tags
+        color: $gama
+        font-weight: 345
+        font-size: 1.4rem
+        text-transform: uppercase
+        text-align: left
+        float: left
+        display: block
+        margin-bottom: 0rem
+        margin-top: -0.8rem
+        letter-spacing: 1px
+        -webkit-font-smoothing: antialiased
+        text-rendering: optimizeLegibility
+    > .post-tags > .item 
+        padding: 2px 8px
+        border-radius: 3px
+        font-size: 1.1rem
+        background: $epsilon
+        color: $porygon-pink
+        letter-spacing: 0.5px
+        margin: 3px 1px
+        text-decoration: none
+        display: inline
+
+.experience > .list > .item,
+    > .post-tags
+        color: $gama
+        font-weight: 345
+        font-size: 1.4rem
+        text-transform: uppercase
+        text-align: left
+        float: left
+        display: block
+        margin-bottom: 0rem
+        margin-top: -0.8rem
+        letter-spacing: 1px
+        -webkit-font-smoothing: antialiased
+        text-rendering: optimizeLegibility
+    > .post-tags > .item
+        padding: 2px 8px
+        border-radius: 3px
+        font-size: 1.1rem
+        background: $epsilon
+        color: $porygon-pink
+        letter-spacing: 0.5px
+        margin: 3px 1px
+        text-decoration: none
+        display: inline
+
+.showcase > .list > .item,
+    > .post-tags
+        color: $gama
+        font-weight: 345
+        font-size: 1.4rem
+        text-transform: uppercase
+        text-align: left
+        float: left
+        display: block
+        margin-bottom: 0rem
+        margin-top: -0.8rem
+        letter-spacing: 1px
+        -webkit-font-smoothing: antialiased
+        text-rendering: optimizeLegibility
+    > .post-tags > .item
+        padding: 2px 8px
+        border-radius: 3px
+        font-size: 1rem
+        background: $epsilon
+        color: $porygon-pink
+        letter-spacing: 0.5px
+        margin: 3px 1px
+        text-decoration: none
+        display: inline
+
+.home > .list > .item,
+    > .post-tags
+        color: $gama
+        font-weight: 345
+        font-size: 1.4rem
+        text-transform: uppercase
+        text-align: center
+        float: center
+        display: block
+        margin-bottom: 0rem
+        margin-top: -0.8rem
+        letter-spacing: 1px
+        -webkit-font-smoothing: antialiased
+        text-rendering: optimizeLegibility
+    br.porygon-line
+        display: block
+        content: ""
+        margin-top: 4px
+    > .post-tags > .item
+        padding: 2px 8px
+        border-radius: 3px
+        font-size: 1.1rem
+        background: $epsilon
+        color: $porygon-pink
+        letter-spacing: 0.5px
+        margin: 3px 1px
+        text-decoration: none
+        display: inline
+
+
+
+.blog > .list > .item > .url,
+.experience > .list > .item > .url,
+.projects > .list > .item > .url
+    > .title
+        display: inline
+
+    > .emoji
+        display: inline
+        position: relative
+        top: -4px
+        margin-right: 10px

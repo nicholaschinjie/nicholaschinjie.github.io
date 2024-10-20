@@ -1,0 +1,56 @@
+---
+title: "Full-Stack Developer Intern"
+layout: post
+date: 2020-05-17 23:50
+image: /assets/images/org/hsbc.png
+headerImage: true
+tag:
+    - internship
+    - java
+    - spring
+    - react
+    - jenkins
+    - PCF
+
+star: true
+blog: true
+hidden: true
+category: experience
+experience: true
+subtitle: "Experience: Software Developer Intern at HSBC"
+author: nicholaschin
+description: May 2019 - December 2019  |  Vancouver B.C
+---
+
+From May to December 2019, I worked as a Full Stack Developer intern at <a target="_blank" href="https://www.hsbc.ca/"> HSBC</a> in the Retail Banking and Wealth Management team under a group called Originations, which serves to develop and enhance the online commercial banking experience for new and existing customers. Originations is divided into two teams - one for New-To-Bank (NTB) and the other for Existing-To-Bank (ETB) customers experience.
+
+Assigned to the NTB team, I worked primarily on developing and deploying our suite of account opening services mostly with Spring-cloud-based API development using Java microservices. Some of my notable contributions include building user journeys that handled online credit card applications, customer background verification, and working together with <a href="https://securekey.com/">SecureKey Technologies Inc.</a> to pilot an open banking initiative within the bank.
+
+## Pushing for an Open Banking Experience
+
+<p align="center">
+    <img src="/assets/images/experience/exp-vme.png" width="50%" />
+</p>
+
+<p align="left">
+    <i style="font-size:90%;"> One part of a simple landing page we used to demo the entire customer journey to  
+    </i>
+</p>
+
+<!-- Verified Me -->
+My first four months at HSBC was defined by designing and building a proof-of-concept (POC) open banking API (application programming interface) service. In a world where most Canadian banking institutions have rapidly encouraged open banking practices, HSBC Canada is following suit. My task was to develop a working API service integrated with SecureKey's own API services. <i>I'm pretty sure there's a NDA I signed somewhere, so I won't disclose all the details.</i> But the basic idea is simple: successful integration would allow customers to use their credentials from another Canadian banking institution (e.g RBC, TD, Scotiabank) to open a banking account with HSBC rather seamlessly, or vice versa. Authentication via sharing trusted digital credentials (assets) between banks not only saves customers the trouble of keying endless forms of personal information, it also helps banks combat fraud and identity theft through a potential trusted source.
+
+This project involved an opinionated Spring-based Java ecosystem for development, microservices architecture for deployment, and usage of both SecureKey's and internal APIs to make end-to-end calls. This work was split across several months: designing and implementing a service to orchestrate all asset-providing and asset-consuming API calls, integrating them with SecureKey's API, and continually revising our codebase to comply with HSBC's internal security policies (of which, was my least favorite part of the process). Along the way, I created a very simple mobile and browser user interface with my limited knowledge of HTML and Ajax to visually demo the entire customer journey. Being the sole developer on this project also required extensive writeups, experimentation and going through and knowledge sharing SecureKey's documentations. Based on our success on creating a working demo, we also assess its feasibility from a business and compliance perspective.
+
+This being my first project upon joining HSBC, I especially enjoyed the weight of responsibility entrusted to me throughout the process. From liasing directly with representatives of SecureKey in Toronto, to demo-ing our POC to HSBC teams across Hong Kong, London, Australia, and Canada. My efforts were rewarded when upper management at HSBC began discussing plans for a future launch. 
+
+
+<!-- Credit Card Checks -->
+
+<!-- Background Checks  -->
+
+<hr/>
+
+### About HSBC
+
+<a href="https://www.hsbc.com/">HSBC</a> is one of the world’s largest banking and financial services organisations. They serve more than 40 million customers through their global businesses: Wealth and Personal Banking, Commercial Banking, and Global Banking and Markets. Their network covers 64 countries and territories in Europe, Asia, the Middle East and Africa, North America and Latin America.

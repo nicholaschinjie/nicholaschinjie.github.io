@@ -1,0 +1,51 @@
+---
+# blog page must be named index.html and in its own folder to support pagination
+# https://jekyllrb.com/docs/pagination/
+layout: page
+title: Blog
+pagination:
+enabled: true
+---
+
+<hr />
+<center>
+	<h2 style="font-weight:400;text-align:center" id="blog-highlights">
+		<a style="color:black;text-decoration: none;" href="/blog">blog</a>
+	</h2>
+</center>
+<br class=porygon-line />
+<p align="center">
+	<img class="porygon2" src='/assets/images/porygon2.png'>
+</p>
+
+
+<!-- <p align="center">
+</p> -->
+
+<p align="center">
+	Opinions expressed are solely my own.
+</p>
+
+<section class="list">
+	{% if site.posts.size == 0 %}
+	<p class="text-center">Nothing published yet!</p>
+	{% elsif site.pagination.enabled %}
+	{% for post in paginator.posts %}
+	{% if post.category == 'blog' %}
+	{% if post.hidden != true %}
+	{% include blog-post.html %}
+	{% endif %}
+	{% endif %}
+	{% endfor %}
+
+	{% include pagination.html%}
+	{% else %}
+	{% for post in site.posts %}
+	{% if post.category == 'blog' %}
+	{% if post.hidden != true %}
+	{% include blog-post.html %}
+	{% endif %}
+	{% endif %}
+	{% endfor %}
+	{% endif %}
+</section>
