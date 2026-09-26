@@ -13,7 +13,8 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+# TODO: re-enable once an updated resume is uploaded
+resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 

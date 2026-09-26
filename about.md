@@ -36,10 +36,6 @@ layout: page
 <hr/>
 
 
-##### more about me
-<p style="font-size:90%;">Here's a copy of my latest <a target="_blank" href="/assets/resume.pdf">résumé</a>.</p>
-
-
 ##### getting in touch
 <p style="font-size:90%;">Feel free to reach out to me by <a target="_blank" href="mailto:nicholaschin20@gmail.com">email</a> (nicholaschin20@gmail.com) or <a target="_blank" href="https://www.linkedin.com/in/nicholaschinjie/">LinkedIn</a>.</p> 
 
